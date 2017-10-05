@@ -1,0 +1,345 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CakeList /> Renders out 1`] = `
+<li>
+  <h2>
+     
+    Lemon cheesecake
+     
+  </h2>
+  <p>
+     
+    A cheesecake made of lemon
+     
+  </p>
+  <img
+    alt="Lemon cheesecake"
+    src="https://s3-eu-west-1.amazonaws.com/s3.mediafileserver.co.uk/carnation/WebFiles/RecipeImages/lemoncheesecake_lg.jpg"
+  />
+</li>
+`;
+
+exports[`<CakeList /> Renders whole list 1`] = `
+Array [
+  <li>
+    <h2>
+         
+        Lemon cheesecake
+         
+    </h2>
+    <p>
+         
+        A cheesecake made of lemon
+         
+    </p>
+    <img
+        alt="Lemon cheesecake"
+        src="https://s3-eu-west-1.amazonaws.com/s3.mediafileserver.co.uk/carnation/WebFiles/RecipeImages/lemoncheesecake_lg.jpg"
+    />
+</li>,
+  <li>
+    <h2>
+         
+        victoria sponge
+         
+    </h2>
+    <p>
+         
+        sponge with jam
+         
+    </p>
+    <img
+        alt="victoria sponge"
+        src="http://www.bbcgoodfood.com/sites/bbcgoodfood.com/files/recipe_images/recipe-image-legacy-id--1001468_10.jpg"
+    />
+</li>,
+  <li>
+    <h2>
+         
+        Carrot cake
+         
+    </h2>
+    <p>
+         
+        Bugs bunnys favourite
+         
+    </p>
+    <img
+        alt="Carrot cake"
+        src="http://www.villageinn.com/i/pies/profile/carrotcake_main1.jpg"
+    />
+</li>,
+  <li>
+    <h2>
+         
+        Banana cake
+         
+    </h2>
+    <p>
+         
+        Donkey kongs favourite
+         
+    </p>
+    <img
+        alt="Banana cake"
+        src="http://ukcdn.ar-cdn.com/recipes/xlarge/ff22df7f-dbcd-4a09-81f7-9c1d8395d936.jpg"
+    />
+</li>,
+  <li>
+    <h2>
+         
+        Birthday cake
+         
+    </h2>
+    <p>
+         
+        a yearly treat
+         
+    </p>
+    <img
+        alt="Birthday cake"
+        src="http://cornandco.com/wp-content/uploads/2014/05/birthday-cake-popcorn.jpg"
+    />
+</li>,
+  <li>
+    <h2>
+         
+        Lemon cheesecake
+         
+    </h2>
+    <p>
+         
+        A cheesecake made of lemon
+         
+    </p>
+    <img
+        alt="Lemon cheesecake"
+        src="https://s3-eu-west-1.amazonaws.com/s3.mediafileserver.co.uk/carnation/WebFiles/RecipeImages/lemoncheesecake_lg.jpg"
+    />
+</li>,
+  <li>
+    <h2>
+         
+        victoria sponge
+         
+    </h2>
+    <p>
+         
+        sponge with jam
+         
+    </p>
+    <img
+        alt="victoria sponge"
+        src="http://www.bbcgoodfood.com/sites/bbcgoodfood.com/files/recipe_images/recipe-image-legacy-id--1001468_10.jpg"
+    />
+</li>,
+  <li>
+    <h2>
+         
+        Carrot cake
+         
+    </h2>
+    <p>
+         
+        Bugs bunnys favourite
+         
+    </p>
+    <img
+        alt="Carrot cake"
+        src="http://www.villageinn.com/i/pies/profile/carrotcake_main1.jpg"
+    />
+</li>,
+  <li>
+    <h2>
+         
+        Banana cake
+         
+    </h2>
+    <p>
+         
+        Donkey kongs favourite
+         
+    </p>
+    <img
+        alt="Banana cake"
+        src="http://ukcdn.ar-cdn.com/recipes/xlarge/ff22df7f-dbcd-4a09-81f7-9c1d8395d936.jpg"
+    />
+</li>,
+  <li>
+    <h2>
+         
+        Birthday cake
+         
+    </h2>
+    <p>
+         
+        a yearly treat
+         
+    </p>
+    <img
+        alt="Birthday cake"
+        src="http://cornandco.com/wp-content/uploads/2014/05/birthday-cake-popcorn.jpg"
+    />
+</li>,
+  <li>
+    <h2>
+         
+        Lemon cheesecake
+         
+    </h2>
+    <p>
+         
+        A cheesecake made of lemon
+         
+    </p>
+    <img
+        alt="Lemon cheesecake"
+        src="https://s3-eu-west-1.amazonaws.com/s3.mediafileserver.co.uk/carnation/WebFiles/RecipeImages/lemoncheesecake_lg.jpg"
+    />
+</li>,
+  <li>
+    <h2>
+         
+        victoria sponge
+         
+    </h2>
+    <p>
+         
+        sponge with jam
+         
+    </p>
+    <img
+        alt="victoria sponge"
+        src="http://www.bbcgoodfood.com/sites/bbcgoodfood.com/files/recipe_images/recipe-image-legacy-id--1001468_10.jpg"
+    />
+</li>,
+  <li>
+    <h2>
+         
+        Carrot cake
+         
+    </h2>
+    <p>
+         
+        Bugs bunnys favourite
+         
+    </p>
+    <img
+        alt="Carrot cake"
+        src="http://www.villageinn.com/i/pies/profile/carrotcake_main1.jpg"
+    />
+</li>,
+  <li>
+    <h2>
+         
+        Banana cake
+         
+    </h2>
+    <p>
+         
+        Donkey kongs favourite
+         
+    </p>
+    <img
+        alt="Banana cake"
+        src="http://ukcdn.ar-cdn.com/recipes/xlarge/ff22df7f-dbcd-4a09-81f7-9c1d8395d936.jpg"
+    />
+</li>,
+  <li>
+    <h2>
+         
+        Birthday cake
+         
+    </h2>
+    <p>
+         
+        a yearly treat
+         
+    </p>
+    <img
+        alt="Birthday cake"
+        src="http://cornandco.com/wp-content/uploads/2014/05/birthday-cake-popcorn.jpg"
+    />
+</li>,
+  <li>
+    <h2>
+         
+        Lemon cheesecake
+         
+    </h2>
+    <p>
+         
+        A cheesecake made of lemon
+         
+    </p>
+    <img
+        alt="Lemon cheesecake"
+        src="https://s3-eu-west-1.amazonaws.com/s3.mediafileserver.co.uk/carnation/WebFiles/RecipeImages/lemoncheesecake_lg.jpg"
+    />
+</li>,
+  <li>
+    <h2>
+         
+        victoria sponge
+         
+    </h2>
+    <p>
+         
+        sponge with jam
+         
+    </p>
+    <img
+        alt="victoria sponge"
+        src="http://www.bbcgoodfood.com/sites/bbcgoodfood.com/files/recipe_images/recipe-image-legacy-id--1001468_10.jpg"
+    />
+</li>,
+  <li>
+    <h2>
+         
+        Carrot cake
+         
+    </h2>
+    <p>
+         
+        Bugs bunnys favourite
+         
+    </p>
+    <img
+        alt="Carrot cake"
+        src="http://www.villageinn.com/i/pies/profile/carrotcake_main1.jpg"
+    />
+</li>,
+  <li>
+    <h2>
+         
+        Banana cake
+         
+    </h2>
+    <p>
+         
+        Donkey kongs favourite
+         
+    </p>
+    <img
+        alt="Banana cake"
+        src="http://ukcdn.ar-cdn.com/recipes/xlarge/ff22df7f-dbcd-4a09-81f7-9c1d8395d936.jpg"
+    />
+</li>,
+  <li>
+    <h2>
+         
+        Birthday cake
+         
+    </h2>
+    <p>
+         
+        a yearly treat
+         
+    </p>
+    <img
+        alt="Birthday cake"
+        src="http://cornandco.com/wp-content/uploads/2014/05/birthday-cake-popcorn.jpg"
+    />
+</li>,
+]
+`;
