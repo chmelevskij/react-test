@@ -19,6 +19,12 @@ exports[`<CakeList /> Renders out 1`] = `
       alt="Lemon cheesecake"
       src="https://s3-eu-west-1.amazonaws.com/s3.mediafileserver.co.uk/carnation/WebFiles/RecipeImages/lemoncheesecake_lg.jpg"
     />
+    <button
+      onClick={undefined}
+      value={0}
+    >
+      X
+    </button>
   </li>
 </ul>
 `;
@@ -42,6 +48,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       alt="Lemon cheesecake"
       src="https://s3-eu-west-1.amazonaws.com/s3.mediafileserver.co.uk/carnation/WebFiles/RecipeImages/lemoncheesecake_lg.jpg"
     />
+    <button
+      onClick={undefined}
+      value={0}
+    >
+      X
+    </button>
   </li>
   <li>
     <h2>
@@ -58,6 +70,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       alt="victoria sponge"
       src="http://www.bbcgoodfood.com/sites/bbcgoodfood.com/files/recipe_images/recipe-image-legacy-id--1001468_10.jpg"
     />
+    <button
+      onClick={undefined}
+      value={1}
+    >
+      X
+    </button>
   </li>
   <li>
     <h2>
@@ -74,6 +92,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       alt="Carrot cake"
       src="http://www.villageinn.com/i/pies/profile/carrotcake_main1.jpg"
     />
+    <button
+      onClick={undefined}
+      value={2}
+    >
+      X
+    </button>
   </li>
   <li>
     <h2>
@@ -90,6 +114,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       alt="Banana cake"
       src="http://ukcdn.ar-cdn.com/recipes/xlarge/ff22df7f-dbcd-4a09-81f7-9c1d8395d936.jpg"
     />
+    <button
+      onClick={undefined}
+      value={3}
+    >
+      X
+    </button>
   </li>
   <li>
     <h2>
@@ -106,6 +136,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       alt="Birthday cake"
       src="http://cornandco.com/wp-content/uploads/2014/05/birthday-cake-popcorn.jpg"
     />
+    <button
+      onClick={undefined}
+      value={4}
+    >
+      X
+    </button>
   </li>
   <li>
     <h2>
@@ -122,6 +158,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       alt="Lemon cheesecake"
       src="https://s3-eu-west-1.amazonaws.com/s3.mediafileserver.co.uk/carnation/WebFiles/RecipeImages/lemoncheesecake_lg.jpg"
     />
+    <button
+      onClick={undefined}
+      value={5}
+    >
+      X
+    </button>
   </li>
   <li>
     <h2>
@@ -138,6 +180,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       alt="victoria sponge"
       src="http://www.bbcgoodfood.com/sites/bbcgoodfood.com/files/recipe_images/recipe-image-legacy-id--1001468_10.jpg"
     />
+    <button
+      onClick={undefined}
+      value={6}
+    >
+      X
+    </button>
   </li>
   <li>
     <h2>
@@ -154,6 +202,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       alt="Carrot cake"
       src="http://www.villageinn.com/i/pies/profile/carrotcake_main1.jpg"
     />
+    <button
+      onClick={undefined}
+      value={7}
+    >
+      X
+    </button>
   </li>
   <li>
     <h2>
@@ -170,6 +224,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       alt="Banana cake"
       src="http://ukcdn.ar-cdn.com/recipes/xlarge/ff22df7f-dbcd-4a09-81f7-9c1d8395d936.jpg"
     />
+    <button
+      onClick={undefined}
+      value={8}
+    >
+      X
+    </button>
   </li>
   <li>
     <h2>
@@ -186,6 +246,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       alt="Birthday cake"
       src="http://cornandco.com/wp-content/uploads/2014/05/birthday-cake-popcorn.jpg"
     />
+    <button
+      onClick={undefined}
+      value={9}
+    >
+      X
+    </button>
   </li>
   <li>
     <h2>
@@ -202,6 +268,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       alt="Lemon cheesecake"
       src="https://s3-eu-west-1.amazonaws.com/s3.mediafileserver.co.uk/carnation/WebFiles/RecipeImages/lemoncheesecake_lg.jpg"
     />
+    <button
+      onClick={undefined}
+      value={10}
+    >
+      X
+    </button>
   </li>
   <li>
     <h2>
@@ -218,6 +290,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       alt="victoria sponge"
       src="http://www.bbcgoodfood.com/sites/bbcgoodfood.com/files/recipe_images/recipe-image-legacy-id--1001468_10.jpg"
     />
+    <button
+      onClick={undefined}
+      value={11}
+    >
+      X
+    </button>
   </li>
   <li>
     <h2>
@@ -234,6 +312,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       alt="Carrot cake"
       src="http://www.villageinn.com/i/pies/profile/carrotcake_main1.jpg"
     />
+    <button
+      onClick={undefined}
+      value={12}
+    >
+      X
+    </button>
   </li>
   <li>
     <h2>
@@ -250,6 +334,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       alt="Banana cake"
       src="http://ukcdn.ar-cdn.com/recipes/xlarge/ff22df7f-dbcd-4a09-81f7-9c1d8395d936.jpg"
     />
+    <button
+      onClick={undefined}
+      value={13}
+    >
+      X
+    </button>
   </li>
   <li>
     <h2>
@@ -266,6 +356,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       alt="Birthday cake"
       src="http://cornandco.com/wp-content/uploads/2014/05/birthday-cake-popcorn.jpg"
     />
+    <button
+      onClick={undefined}
+      value={14}
+    >
+      X
+    </button>
   </li>
   <li>
     <h2>
@@ -282,6 +378,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       alt="Lemon cheesecake"
       src="https://s3-eu-west-1.amazonaws.com/s3.mediafileserver.co.uk/carnation/WebFiles/RecipeImages/lemoncheesecake_lg.jpg"
     />
+    <button
+      onClick={undefined}
+      value={15}
+    >
+      X
+    </button>
   </li>
   <li>
     <h2>
@@ -298,6 +400,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       alt="victoria sponge"
       src="http://www.bbcgoodfood.com/sites/bbcgoodfood.com/files/recipe_images/recipe-image-legacy-id--1001468_10.jpg"
     />
+    <button
+      onClick={undefined}
+      value={16}
+    >
+      X
+    </button>
   </li>
   <li>
     <h2>
@@ -314,6 +422,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       alt="Carrot cake"
       src="http://www.villageinn.com/i/pies/profile/carrotcake_main1.jpg"
     />
+    <button
+      onClick={undefined}
+      value={17}
+    >
+      X
+    </button>
   </li>
   <li>
     <h2>
@@ -330,6 +444,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       alt="Banana cake"
       src="http://ukcdn.ar-cdn.com/recipes/xlarge/ff22df7f-dbcd-4a09-81f7-9c1d8395d936.jpg"
     />
+    <button
+      onClick={undefined}
+      value={18}
+    >
+      X
+    </button>
   </li>
   <li>
     <h2>
@@ -346,6 +466,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       alt="Birthday cake"
       src="http://cornandco.com/wp-content/uploads/2014/05/birthday-cake-popcorn.jpg"
     />
+    <button
+      onClick={undefined}
+      value={19}
+    >
+      X
+    </button>
   </li>
 </ul>
 `;

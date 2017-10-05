@@ -1,17 +1,12 @@
 import React from 'react'
+import Cake from './Cake.js'
 import './CakeList.css'
 
-const CakeList = ({cakes}) => (
+const CakeList = ({onDestroy, cakes}) => (
   <ul className="CakeList">
-    {
-      cakes.map((cake,i) => (
-        <li key={ i }>
-          <h2> {cake.title} </h2>
-          <p> {cake.desc} </p>
-          <img src={cake.image} alt={cake.title}/>
-        </li>
-      ))
-    }
+    { cakes.map((cake,i) => (
+      <Cake key={i} {...cake} cakeId={i} onClick={onDestroy}/>
+    )) }
   </ul>
 )
 
