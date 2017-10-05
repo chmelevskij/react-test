@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import cakes from './cake.json';
 import CakeList from './CakeList.js';
+import CakeForm from './CakeForm.js'
 import './App.css';
 
 class App extends Component {
@@ -50,17 +51,12 @@ class App extends Component {
   }
 
   render() {
-    let {cakes,title,desc,image}= this.state
+    let {cakes}= this.state
     return (
       <div className="App">
         <header className="App-header">
           <h1 className="App-title">Cakes!!!</h1>
-          <form action="">
-            <input value={title} onChange={this.handleInput} name="title" type="text" placeholder="title"/>
-            <input value={desc}  onChange={this.handleInput} name="desc"  type="text" placeholder="description"/>
-            <input value={image} onChange={this.handleInput} name="image" type="text" placeholder="image url"/>
-            <input type="submit" onClick={this.addCake}/>
-          </form>
+          <CakeForm {...this.state} handleInput={this.handleInput} onSubmit={this.addCake} />
           <input placeholder="search" type="text" onChange={this.search}/>
         </header>
         { cakes.length
