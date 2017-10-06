@@ -1,0 +1,21 @@
+.CakeForm {
+  display: flex;
+  flex-direction: column;
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 5px;
+  color: black;
+  padding: 10px;
+}
+
+.CakeForm-submit {
+  line-height: 2rem;
+  background: #9c92ac;
+}
+
+input,
+textarea {
+  margin: 10px;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+}

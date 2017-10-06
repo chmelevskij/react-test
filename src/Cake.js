@@ -1,11 +1,12 @@
 import React from 'react'
+import './Cake.css'
 
 const Cake = ({title, desc, image, cakeId, onClick}) => (
-  <li>
-    <h2> {title} </h2>
+  <li className="Cake">
+    <h2 className="Cake-title"> {title} </h2>
     <p> {desc} </p>
-    <img src={image} alt={title}/>
-    <button onClick={onClick} value={cakeId}>X</button>
+    <img className="Cake-image" src={image} alt={title}/>
+    <button className="Cake-remove" onClick={onClick} value={cakeId}>X</button>
   </li>
 )
 

@@ -55,9 +55,8 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h1 className="App-title">Cakes!!!</h1>
           <CakeForm {...this.state} handleInput={this.handleInput} onSubmit={this.addCake} />
-          <input placeholder="search" type="text" onChange={this.search}/>
+          <label className="App-search">Search<input placeholder="Type..." type="text" onChange={this.search}/></label>
         </header>
         { cakes.length
           ? <CakeList onDestroy={this.destroy} cakes={this.state.cakes}/>
