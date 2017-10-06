@@ -3,15 +3,14 @@ import CakeForm from '../CakeForm/CakeForm.js'
 import './Cake.css'
 
 class Cake extends Component {
-  constructor({image, title, desc, cakeId, onCakeUpdate}){
+  constructor({image, title, desc, cakeId}){
     super()
     this.state = {
       title,
       desc,
       cakeId,
       image,
-      editable: false,
-      onCakeUpdate
+      editable: false
     }
 
     this.finishEdit = this.finishEdit.bind(this)
@@ -21,9 +20,9 @@ class Cake extends Component {
 
   finishEdit(event){
     event.preventDefault()
-    let {title, desc, cakeId, onCakeUpdate, editable} = this.state
-
-    onCakeUpdate(cakeId, title, desc)
+    let {title, desc, image, cakeId,  editable} = this.state
+    let { onCakeUpdate } = this.props
+    onCakeUpdate(cakeId, title, desc, image)
     this.setState({editable: !editable})
   }
 

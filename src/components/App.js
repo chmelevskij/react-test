@@ -42,19 +42,22 @@ class App extends Component {
 
     let {cakes, title, desc, image} = this.state
 
-    this.setState({cakes: [...cakes, {
+    this.setState({cakes: [{
       title,
       desc,
       image
-    }]})
+    },...cakes ]})
 
     event.preventDefault()
   }
 
-  onCakeUpdate(id, title, desc){
+  onCakeUpdate(id, title, desc, image){
     let cakes = [...this.state.cakes]
-    cakes[id].title = title
-    cakes[id].desc = desc
+    cakes[id] = {
+      title,
+      desc,
+      image
+    }
 
     this.setState({cakes})
   }

@@ -29,4 +29,5 @@ describe('<CakeList />', () => {
     let wholeList = renderer.create(<CakeList cakes={cakesJSON} />).toJSON()
     expect(wholeList).toMatchSnapshot()
   })
+
 })
