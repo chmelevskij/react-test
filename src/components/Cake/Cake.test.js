@@ -1,16 +1,16 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import renderer from 'react-test-renderer'
-import App from './App'
+import Cake from './Cake.js'
 
-describe('<App/>', () => {
+describe('<Cake />', () => {
   it('renders without crashing', () => {
     const div = document.createElement('div')
-    ReactDOM.render(<App />, div)
+    ReactDOM.render(<Cake />, div)
   })
 
-  it('Renders cakes', () => {
-    let wrapper = renderer.create(<App />).toJSON()
+  it('Renders Cake', () => {
+    let wrapper = renderer.create(<Cake />).toJSON()
     expect(wrapper).toMatchSnapshot()
   })
 })

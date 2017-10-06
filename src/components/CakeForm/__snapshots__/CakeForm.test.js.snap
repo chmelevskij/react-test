@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CakeForm /> Renders cakes 1`] = `
+<form
+  className="CakeForm"
+  style={
+    Object {
+      "display": "none",
+    }
+  }
+>
+  <label
+    htmlFor="title"
+  >
+     Title 
+  </label>
+  <input
+    className="CakeForm-input"
+    id="title"
+    name="title"
+    onChange={undefined}
+    placeholder="Title"
+    required={true}
+    type="text"
+    value={undefined}
+  />
+  <label
+    htmlFor="desc"
+  >
+     Description 
+  </label>
+  <textarea
+    className="CakeForm-input"
+    cols="30"
+    id="desc"
+    name="desc"
+    onChange={undefined}
+    placeholder="Description"
+    rows="10"
+    value={undefined}
+  />
+  <label
+    htmlFor="image"
+  >
+     Image 
+  </label>
+  <input
+    className="CakeForm-input"
+    id="image"
+    name="image"
+    onChange={undefined}
+    placeholder="Image URL"
+    type="url"
+    value={undefined}
+  />
+  <button
+    className="CakeForm-submit CakeForm-input"
+    onClick={undefined}
+    style={
+      Object {
+        "display": "initial",
+      }
+    }
+    type="submit"
+  >
+    Add
+  </button>
+</form>
+`;

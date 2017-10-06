@@ -108,12 +108,7 @@ exports[`<CakeList /> Renders out 1`] = `
         }
         value={0}
       >
-        <span
-          aria-label="Finish edit"
-          role="img"
-        >
-          👍
-        </span>
+         👍 
       </button>
       <button
         className="Cake-edit"
@@ -125,12 +120,7 @@ exports[`<CakeList /> Renders out 1`] = `
         }
         value={0}
       >
-        <span
-          aria-label="edit"
-          role="img"
-        >
-          🖊
-        </span>
+         🖊 
       </button>
       <button
         className="Cake-remove"
@@ -142,12 +132,7 @@ exports[`<CakeList /> Renders out 1`] = `
         }
         value={0}
       >
-        <span
-          aria-label="remove"
-          role="img"
-        >
-          🗑
-        </span>
+         🗑 
       </button>
     </div>
   </li>
@@ -262,12 +247,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={0}
       >
-        <span
-          aria-label="Finish edit"
-          role="img"
-        >
-          👍
-        </span>
+         👍 
       </button>
       <button
         className="Cake-edit"
@@ -279,12 +259,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={0}
       >
-        <span
-          aria-label="edit"
-          role="img"
-        >
-          🖊
-        </span>
+         🖊 
       </button>
       <button
         className="Cake-remove"
@@ -296,12 +271,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={0}
       >
-        <span
-          aria-label="remove"
-          role="img"
-        >
-          🗑
-        </span>
+         🗑 
       </button>
     </div>
   </li>
@@ -409,12 +379,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={1}
       >
-        <span
-          aria-label="Finish edit"
-          role="img"
-        >
-          👍
-        </span>
+         👍 
       </button>
       <button
         className="Cake-edit"
@@ -426,12 +391,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={1}
       >
-        <span
-          aria-label="edit"
-          role="img"
-        >
-          🖊
-        </span>
+         🖊 
       </button>
       <button
         className="Cake-remove"
@@ -443,12 +403,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={1}
       >
-        <span
-          aria-label="remove"
-          role="img"
-        >
-          🗑
-        </span>
+         🗑 
       </button>
     </div>
   </li>
@@ -556,12 +511,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={2}
       >
-        <span
-          aria-label="Finish edit"
-          role="img"
-        >
-          👍
-        </span>
+         👍 
       </button>
       <button
         className="Cake-edit"
@@ -573,12 +523,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={2}
       >
-        <span
-          aria-label="edit"
-          role="img"
-        >
-          🖊
-        </span>
+         🖊 
       </button>
       <button
         className="Cake-remove"
@@ -590,12 +535,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={2}
       >
-        <span
-          aria-label="remove"
-          role="img"
-        >
-          🗑
-        </span>
+         🗑 
       </button>
     </div>
   </li>
@@ -703,12 +643,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={3}
       >
-        <span
-          aria-label="Finish edit"
-          role="img"
-        >
-          👍
-        </span>
+         👍 
       </button>
       <button
         className="Cake-edit"
@@ -720,12 +655,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={3}
       >
-        <span
-          aria-label="edit"
-          role="img"
-        >
-          🖊
-        </span>
+         🖊 
       </button>
       <button
         className="Cake-remove"
@@ -737,12 +667,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={3}
       >
-        <span
-          aria-label="remove"
-          role="img"
-        >
-          🗑
-        </span>
+         🗑 
       </button>
     </div>
   </li>
@@ -850,12 +775,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={4}
       >
-        <span
-          aria-label="Finish edit"
-          role="img"
-        >
-          👍
-        </span>
+         👍 
       </button>
       <button
         className="Cake-edit"
@@ -867,12 +787,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={4}
       >
-        <span
-          aria-label="edit"
-          role="img"
-        >
-          🖊
-        </span>
+         🖊 
       </button>
       <button
         className="Cake-remove"
@@ -884,12 +799,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={4}
       >
-        <span
-          aria-label="remove"
-          role="img"
-        >
-          🗑
-        </span>
+         🗑 
       </button>
     </div>
   </li>
@@ -997,12 +907,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={5}
       >
-        <span
-          aria-label="Finish edit"
-          role="img"
-        >
-          👍
-        </span>
+         👍 
       </button>
       <button
         className="Cake-edit"
@@ -1014,12 +919,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={5}
       >
-        <span
-          aria-label="edit"
-          role="img"
-        >
-          🖊
-        </span>
+         🖊 
       </button>
       <button
         className="Cake-remove"
@@ -1031,12 +931,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={5}
       >
-        <span
-          aria-label="remove"
-          role="img"
-        >
-          🗑
-        </span>
+         🗑 
       </button>
     </div>
   </li>
@@ -1144,12 +1039,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={6}
       >
-        <span
-          aria-label="Finish edit"
-          role="img"
-        >
-          👍
-        </span>
+         👍 
       </button>
       <button
         className="Cake-edit"
@@ -1161,12 +1051,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={6}
       >
-        <span
-          aria-label="edit"
-          role="img"
-        >
-          🖊
-        </span>
+         🖊 
       </button>
       <button
         className="Cake-remove"
@@ -1178,12 +1063,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={6}
       >
-        <span
-          aria-label="remove"
-          role="img"
-        >
-          🗑
-        </span>
+         🗑 
       </button>
     </div>
   </li>
@@ -1291,12 +1171,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={7}
       >
-        <span
-          aria-label="Finish edit"
-          role="img"
-        >
-          👍
-        </span>
+         👍 
       </button>
       <button
         className="Cake-edit"
@@ -1308,12 +1183,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={7}
       >
-        <span
-          aria-label="edit"
-          role="img"
-        >
-          🖊
-        </span>
+         🖊 
       </button>
       <button
         className="Cake-remove"
@@ -1325,12 +1195,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={7}
       >
-        <span
-          aria-label="remove"
-          role="img"
-        >
-          🗑
-        </span>
+         🗑 
       </button>
     </div>
   </li>
@@ -1438,12 +1303,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={8}
       >
-        <span
-          aria-label="Finish edit"
-          role="img"
-        >
-          👍
-        </span>
+         👍 
       </button>
       <button
         className="Cake-edit"
@@ -1455,12 +1315,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={8}
       >
-        <span
-          aria-label="edit"
-          role="img"
-        >
-          🖊
-        </span>
+         🖊 
       </button>
       <button
         className="Cake-remove"
@@ -1472,12 +1327,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={8}
       >
-        <span
-          aria-label="remove"
-          role="img"
-        >
-          🗑
-        </span>
+         🗑 
       </button>
     </div>
   </li>
@@ -1585,12 +1435,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={9}
       >
-        <span
-          aria-label="Finish edit"
-          role="img"
-        >
-          👍
-        </span>
+         👍 
       </button>
       <button
         className="Cake-edit"
@@ -1602,12 +1447,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={9}
       >
-        <span
-          aria-label="edit"
-          role="img"
-        >
-          🖊
-        </span>
+         🖊 
       </button>
       <button
         className="Cake-remove"
@@ -1619,12 +1459,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={9}
       >
-        <span
-          aria-label="remove"
-          role="img"
-        >
-          🗑
-        </span>
+         🗑 
       </button>
     </div>
   </li>
@@ -1732,12 +1567,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={10}
       >
-        <span
-          aria-label="Finish edit"
-          role="img"
-        >
-          👍
-        </span>
+         👍 
       </button>
       <button
         className="Cake-edit"
@@ -1749,12 +1579,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={10}
       >
-        <span
-          aria-label="edit"
-          role="img"
-        >
-          🖊
-        </span>
+         🖊 
       </button>
       <button
         className="Cake-remove"
@@ -1766,12 +1591,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={10}
       >
-        <span
-          aria-label="remove"
-          role="img"
-        >
-          🗑
-        </span>
+         🗑 
       </button>
     </div>
   </li>
@@ -1879,12 +1699,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={11}
       >
-        <span
-          aria-label="Finish edit"
-          role="img"
-        >
-          👍
-        </span>
+         👍 
       </button>
       <button
         className="Cake-edit"
@@ -1896,12 +1711,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={11}
       >
-        <span
-          aria-label="edit"
-          role="img"
-        >
-          🖊
-        </span>
+         🖊 
       </button>
       <button
         className="Cake-remove"
@@ -1913,12 +1723,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={11}
       >
-        <span
-          aria-label="remove"
-          role="img"
-        >
-          🗑
-        </span>
+         🗑 
       </button>
     </div>
   </li>
@@ -2026,12 +1831,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={12}
       >
-        <span
-          aria-label="Finish edit"
-          role="img"
-        >
-          👍
-        </span>
+         👍 
       </button>
       <button
         className="Cake-edit"
@@ -2043,12 +1843,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={12}
       >
-        <span
-          aria-label="edit"
-          role="img"
-        >
-          🖊
-        </span>
+         🖊 
       </button>
       <button
         className="Cake-remove"
@@ -2060,12 +1855,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={12}
       >
-        <span
-          aria-label="remove"
-          role="img"
-        >
-          🗑
-        </span>
+         🗑 
       </button>
     </div>
   </li>
@@ -2173,12 +1963,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={13}
       >
-        <span
-          aria-label="Finish edit"
-          role="img"
-        >
-          👍
-        </span>
+         👍 
       </button>
       <button
         className="Cake-edit"
@@ -2190,12 +1975,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={13}
       >
-        <span
-          aria-label="edit"
-          role="img"
-        >
-          🖊
-        </span>
+         🖊 
       </button>
       <button
         className="Cake-remove"
@@ -2207,12 +1987,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={13}
       >
-        <span
-          aria-label="remove"
-          role="img"
-        >
-          🗑
-        </span>
+         🗑 
       </button>
     </div>
   </li>
@@ -2320,12 +2095,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={14}
       >
-        <span
-          aria-label="Finish edit"
-          role="img"
-        >
-          👍
-        </span>
+         👍 
       </button>
       <button
         className="Cake-edit"
@@ -2337,12 +2107,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={14}
       >
-        <span
-          aria-label="edit"
-          role="img"
-        >
-          🖊
-        </span>
+         🖊 
       </button>
       <button
         className="Cake-remove"
@@ -2354,12 +2119,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={14}
       >
-        <span
-          aria-label="remove"
-          role="img"
-        >
-          🗑
-        </span>
+         🗑 
       </button>
     </div>
   </li>
@@ -2467,12 +2227,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={15}
       >
-        <span
-          aria-label="Finish edit"
-          role="img"
-        >
-          👍
-        </span>
+         👍 
       </button>
       <button
         className="Cake-edit"
@@ -2484,12 +2239,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={15}
       >
-        <span
-          aria-label="edit"
-          role="img"
-        >
-          🖊
-        </span>
+         🖊 
       </button>
       <button
         className="Cake-remove"
@@ -2501,12 +2251,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={15}
       >
-        <span
-          aria-label="remove"
-          role="img"
-        >
-          🗑
-        </span>
+         🗑 
       </button>
     </div>
   </li>
@@ -2614,12 +2359,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={16}
       >
-        <span
-          aria-label="Finish edit"
-          role="img"
-        >
-          👍
-        </span>
+         👍 
       </button>
       <button
         className="Cake-edit"
@@ -2631,12 +2371,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={16}
       >
-        <span
-          aria-label="edit"
-          role="img"
-        >
-          🖊
-        </span>
+         🖊 
       </button>
       <button
         className="Cake-remove"
@@ -2648,12 +2383,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={16}
       >
-        <span
-          aria-label="remove"
-          role="img"
-        >
-          🗑
-        </span>
+         🗑 
       </button>
     </div>
   </li>
@@ -2761,12 +2491,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={17}
       >
-        <span
-          aria-label="Finish edit"
-          role="img"
-        >
-          👍
-        </span>
+         👍 
       </button>
       <button
         className="Cake-edit"
@@ -2778,12 +2503,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={17}
       >
-        <span
-          aria-label="edit"
-          role="img"
-        >
-          🖊
-        </span>
+         🖊 
       </button>
       <button
         className="Cake-remove"
@@ -2795,12 +2515,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={17}
       >
-        <span
-          aria-label="remove"
-          role="img"
-        >
-          🗑
-        </span>
+         🗑 
       </button>
     </div>
   </li>
@@ -2908,12 +2623,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={18}
       >
-        <span
-          aria-label="Finish edit"
-          role="img"
-        >
-          👍
-        </span>
+         👍 
       </button>
       <button
         className="Cake-edit"
@@ -2925,12 +2635,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={18}
       >
-        <span
-          aria-label="edit"
-          role="img"
-        >
-          🖊
-        </span>
+         🖊 
       </button>
       <button
         className="Cake-remove"
@@ -2942,12 +2647,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={18}
       >
-        <span
-          aria-label="remove"
-          role="img"
-        >
-          🗑
-        </span>
+         🗑 
       </button>
     </div>
   </li>
@@ -3055,12 +2755,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={19}
       >
-        <span
-          aria-label="Finish edit"
-          role="img"
-        >
-          👍
-        </span>
+         👍 
       </button>
       <button
         className="Cake-edit"
@@ -3072,12 +2767,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={19}
       >
-        <span
-          aria-label="edit"
-          role="img"
-        >
-          🖊
-        </span>
+         🖊 
       </button>
       <button
         className="Cake-remove"
@@ -3089,12 +2779,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
         }
         value={19}
       >
-        <span
-          aria-label="remove"
-          role="img"
-        >
-          🗑
-        </span>
+         🗑 
       </button>
     </div>
   </li>

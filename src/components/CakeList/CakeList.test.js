@@ -4,6 +4,7 @@ import cakesJSON from '../../cake.json'
 import renderer from 'react-test-renderer'
 
 const cakes = [{"title":"Lemon cheesecake","desc":"A cheesecake made of lemon","image":"https://s3-eu-west-1.amazonaws.com/s3.mediafileserver.co.uk/carnation/WebFiles/RecipeImages/lemoncheesecake_lg.jpg"}]
+
 describe('<CakeList />', () => {
   let list 
   let listInstance
