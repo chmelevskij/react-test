@@ -100,6 +100,11 @@ exports[`<CakeList /> Renders out 1`] = `
     <button
       className="Cake-finish"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "none",
+        }
+      }
       value={0}
     >
       V
@@ -107,6 +112,11 @@ exports[`<CakeList /> Renders out 1`] = `
     <button
       className="Cake-edit"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
       value={0}
     >
       🖊
@@ -222,6 +232,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-finish"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "none",
+        }
+      }
       value={0}
     >
       V
@@ -229,6 +244,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-edit"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
       value={0}
     >
       🖊
@@ -337,6 +357,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-finish"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "none",
+        }
+      }
       value={1}
     >
       V
@@ -344,6 +369,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-edit"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
       value={1}
     >
       🖊
@@ -452,6 +482,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-finish"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "none",
+        }
+      }
       value={2}
     >
       V
@@ -459,6 +494,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-edit"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
       value={2}
     >
       🖊
@@ -567,6 +607,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-finish"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "none",
+        }
+      }
       value={3}
     >
       V
@@ -574,6 +619,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-edit"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
       value={3}
     >
       🖊
@@ -682,6 +732,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-finish"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "none",
+        }
+      }
       value={4}
     >
       V
@@ -689,6 +744,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-edit"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
       value={4}
     >
       🖊
@@ -797,6 +857,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-finish"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "none",
+        }
+      }
       value={5}
     >
       V
@@ -804,6 +869,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-edit"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
       value={5}
     >
       🖊
@@ -912,6 +982,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-finish"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "none",
+        }
+      }
       value={6}
     >
       V
@@ -919,6 +994,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-edit"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
       value={6}
     >
       🖊
@@ -1027,6 +1107,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-finish"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "none",
+        }
+      }
       value={7}
     >
       V
@@ -1034,6 +1119,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-edit"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
       value={7}
     >
       🖊
@@ -1142,6 +1232,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-finish"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "none",
+        }
+      }
       value={8}
     >
       V
@@ -1149,6 +1244,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-edit"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
       value={8}
     >
       🖊
@@ -1257,6 +1357,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-finish"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "none",
+        }
+      }
       value={9}
     >
       V
@@ -1264,6 +1369,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-edit"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
       value={9}
     >
       🖊
@@ -1372,6 +1482,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-finish"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "none",
+        }
+      }
       value={10}
     >
       V
@@ -1379,6 +1494,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-edit"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
       value={10}
     >
       🖊
@@ -1487,6 +1607,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-finish"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "none",
+        }
+      }
       value={11}
     >
       V
@@ -1494,6 +1619,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-edit"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
       value={11}
     >
       🖊
@@ -1602,6 +1732,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-finish"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "none",
+        }
+      }
       value={12}
     >
       V
@@ -1609,6 +1744,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-edit"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
       value={12}
     >
       🖊
@@ -1717,6 +1857,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-finish"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "none",
+        }
+      }
       value={13}
     >
       V
@@ -1724,6 +1869,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-edit"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
       value={13}
     >
       🖊
@@ -1832,6 +1982,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-finish"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "none",
+        }
+      }
       value={14}
     >
       V
@@ -1839,6 +1994,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-edit"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
       value={14}
     >
       🖊
@@ -1947,6 +2107,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-finish"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "none",
+        }
+      }
       value={15}
     >
       V
@@ -1954,6 +2119,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-edit"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
       value={15}
     >
       🖊
@@ -2062,6 +2232,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-finish"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "none",
+        }
+      }
       value={16}
     >
       V
@@ -2069,6 +2244,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-edit"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
       value={16}
     >
       🖊
@@ -2177,6 +2357,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-finish"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "none",
+        }
+      }
       value={17}
     >
       V
@@ -2184,6 +2369,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-edit"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
       value={17}
     >
       🖊
@@ -2292,6 +2482,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-finish"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "none",
+        }
+      }
       value={18}
     >
       V
@@ -2299,6 +2494,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-edit"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
       value={18}
     >
       🖊
@@ -2407,6 +2607,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-finish"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "none",
+        }
+      }
       value={19}
     >
       V
@@ -2414,6 +2619,11 @@ exports[`<CakeList /> Renders whole list 1`] = `
     <button
       className="Cake-edit"
       onClick={[Function]}
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
       value={19}
     >
       🖊

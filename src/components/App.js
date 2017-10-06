@@ -23,6 +23,7 @@ class App extends Component {
 
   destroy(event) {
     let removed = this.state.cakes.filter( (c, i) => i !== parseInt(event.target.value, 10))
+    console.log(removed)
     this.setState({cakes: removed})
   }
   

@@ -7,6 +7,7 @@
 }
 
 .Cake-remove,
+.Cake-finish,
 .Cake-edit {
   position: absolute;
   color: white;
@@ -22,6 +23,11 @@
 .Cake-edit {
   right: 65px;
   background: #1976D2;
+}
+
+.Cake-finish {
+  right: 65px;
+  background: #388e3c;
 }
 
 .Cake-title {
