@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import cakes from './cake.json';
+import cakes from '../cake.json';
 import CakeList from './CakeList.js';
 import CakeForm from './CakeForm.js'
 import './App.css';
@@ -18,6 +18,7 @@ class App extends Component {
     this.destroy = this.destroy.bind(this)
     this.handleInput = this.handleInput.bind(this)
     this.addCake = this.addCake.bind(this)
+    this.edit = this.edit.bind(this)
   }
 
   destroy(event) {
@@ -50,6 +51,10 @@ class App extends Component {
     event.preventDefault()
   }
 
+  edit(event){
+    console.log(event.value);
+  }
+
   render() {
     let {cakes}= this.state
     return (
@@ -59,7 +64,7 @@ class App extends Component {
           <label className="App-search">Search<input placeholder="Type..." type="text" onChange={this.search}/></label>
         </header>
         { cakes.length
-          ? <CakeList onDestroy={this.destroy} cakes={this.state.cakes}/>
+          ? <CakeList onDestroy={this.destroy} onEdit={this.edit} cakes={this.state.cakes}/>
           : <h2>No cakes matching search</h2>
         }
       </div>

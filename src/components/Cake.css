@@ -6,7 +6,8 @@
   border-radius: 5px;
 }
 
-.Cake-remove {
+.Cake-remove,
+.Cake-edit {
   position: absolute;
   color: white;
   background: #d32f2f;
@@ -16,6 +17,11 @@
   border-radius: 50px;
   height: 50px;
   width: 50px;
+}
+
+.Cake-edit {
+  right: 65px;
+  background: #1976D2;
 }
 
 .Cake-title {
