@@ -47,7 +47,6 @@ class Cake extends Component {
     let {image, editable ,title, desc} = this.state
 
     let buttons =  <div>
-      <button className="Cake-finish" onClick={this.finishEdit} style={{ display: editable ? "initial" : "none" }} value={cakeId}> &#128077; </button>
       <button className="Cake-edit" onClick={this.edit} style={{ display: editable ? "none" : "initial" }} value={cakeId}> &#128394; </button>
       <button className="Cake-remove" onClick={onRemove} style={{ display: editable ? "none" : "initial" }} value={cakeId}> &#128465; </button>
     </div>

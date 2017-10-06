@@ -82,29 +82,12 @@ exports[`<Cake /> Renders Cake 1`] = `
     <button
       className="CakeForm-submit CakeForm-input"
       onClick={[Function]}
-      style={
-        Object {
-          "display": "initial",
-        }
-      }
       type="submit"
     >
       Add
     </button>
   </form>
   <div>
-    <button
-      className="Cake-finish"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "none",
-        }
-      }
-      value={undefined}
-    >
-       👍 
-    </button>
     <button
       className="Cake-edit"
       onClick={[Function]}

@@ -12,8 +12,8 @@
   position: absolute;
   color: white;
   background: #d32f2f;
-  right: 5px;
-  top: 5px;
+  right: 25px;
+  bottom: 25px;
   font-size: 1.5rem;
   border-radius: 50px;
   height: 50px;
@@ -21,12 +21,12 @@
 }
 
 .Cake-edit {
-  right: 65px;
+  right: 85px;
   background: #1976D2;
 }
 
 .Cake-finish {
-  right: 65px;
+  right: 85px;
   background: #388e3c;
 }
 

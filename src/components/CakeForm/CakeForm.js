@@ -11,7 +11,7 @@ const CakeForm = ({handleInput, title, desc, image, onSubmit, visible}) => (
     <textarea  className="CakeForm-input" id="desc" value={desc} name="desc" onChange={handleInput} placeholder="Description" cols="30" rows="10"></textarea>
     <label htmlFor="image"> Image </label>
     <input className="CakeForm-input" id="image" value={image} onChange={handleInput} name="image" type="url" placeholder="Image URL"/>
-    <button style={{display: visible ? "none" : "initial"}}className="CakeForm-submit CakeForm-input" type="submit" onClick={onSubmit}>Add</button>
+    <button className="CakeForm-submit CakeForm-input" type="submit" onClick={onSubmit}>Add</button>
   </form>
 )
 

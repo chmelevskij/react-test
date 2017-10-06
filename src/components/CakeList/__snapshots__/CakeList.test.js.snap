@@ -87,29 +87,12 @@ exports[`<CakeList /> Renders out 1`] = `
       <button
         className="CakeForm-submit CakeForm-input"
         onClick={[Function]}
-        style={
-          Object {
-            "display": "initial",
-          }
-        }
         type="submit"
       >
         Add
       </button>
     </form>
     <div>
-      <button
-        className="Cake-finish"
-        onClick={[Function]}
-        style={
-          Object {
-            "display": "none",
-          }
-        }
-        value={0}
-      >
-         👍 
-      </button>
       <button
         className="Cake-edit"
         onClick={[Function]}
@@ -226,29 +209,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       <button
         className="CakeForm-submit CakeForm-input"
         onClick={[Function]}
-        style={
-          Object {
-            "display": "initial",
-          }
-        }
         type="submit"
       >
         Add
       </button>
     </form>
     <div>
-      <button
-        className="Cake-finish"
-        onClick={[Function]}
-        style={
-          Object {
-            "display": "none",
-          }
-        }
-        value={0}
-      >
-         👍 
-      </button>
       <button
         className="Cake-edit"
         onClick={[Function]}
@@ -358,29 +324,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       <button
         className="CakeForm-submit CakeForm-input"
         onClick={[Function]}
-        style={
-          Object {
-            "display": "initial",
-          }
-        }
         type="submit"
       >
         Add
       </button>
     </form>
     <div>
-      <button
-        className="Cake-finish"
-        onClick={[Function]}
-        style={
-          Object {
-            "display": "none",
-          }
-        }
-        value={1}
-      >
-         👍 
-      </button>
       <button
         className="Cake-edit"
         onClick={[Function]}
@@ -490,29 +439,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       <button
         className="CakeForm-submit CakeForm-input"
         onClick={[Function]}
-        style={
-          Object {
-            "display": "initial",
-          }
-        }
         type="submit"
       >
         Add
       </button>
     </form>
     <div>
-      <button
-        className="Cake-finish"
-        onClick={[Function]}
-        style={
-          Object {
-            "display": "none",
-          }
-        }
-        value={2}
-      >
-         👍 
-      </button>
       <button
         className="Cake-edit"
         onClick={[Function]}
@@ -622,29 +554,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       <button
         className="CakeForm-submit CakeForm-input"
         onClick={[Function]}
-        style={
-          Object {
-            "display": "initial",
-          }
-        }
         type="submit"
       >
         Add
       </button>
     </form>
     <div>
-      <button
-        className="Cake-finish"
-        onClick={[Function]}
-        style={
-          Object {
-            "display": "none",
-          }
-        }
-        value={3}
-      >
-         👍 
-      </button>
       <button
         className="Cake-edit"
         onClick={[Function]}
@@ -754,29 +669,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       <button
         className="CakeForm-submit CakeForm-input"
         onClick={[Function]}
-        style={
-          Object {
-            "display": "initial",
-          }
-        }
         type="submit"
       >
         Add
       </button>
     </form>
     <div>
-      <button
-        className="Cake-finish"
-        onClick={[Function]}
-        style={
-          Object {
-            "display": "none",
-          }
-        }
-        value={4}
-      >
-         👍 
-      </button>
       <button
         className="Cake-edit"
         onClick={[Function]}
@@ -886,29 +784,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       <button
         className="CakeForm-submit CakeForm-input"
         onClick={[Function]}
-        style={
-          Object {
-            "display": "initial",
-          }
-        }
         type="submit"
       >
         Add
       </button>
     </form>
     <div>
-      <button
-        className="Cake-finish"
-        onClick={[Function]}
-        style={
-          Object {
-            "display": "none",
-          }
-        }
-        value={5}
-      >
-         👍 
-      </button>
       <button
         className="Cake-edit"
         onClick={[Function]}
@@ -1018,29 +899,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       <button
         className="CakeForm-submit CakeForm-input"
         onClick={[Function]}
-        style={
-          Object {
-            "display": "initial",
-          }
-        }
         type="submit"
       >
         Add
       </button>
     </form>
     <div>
-      <button
-        className="Cake-finish"
-        onClick={[Function]}
-        style={
-          Object {
-            "display": "none",
-          }
-        }
-        value={6}
-      >
-         👍 
-      </button>
       <button
         className="Cake-edit"
         onClick={[Function]}
@@ -1150,29 +1014,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       <button
         className="CakeForm-submit CakeForm-input"
         onClick={[Function]}
-        style={
-          Object {
-            "display": "initial",
-          }
-        }
         type="submit"
       >
         Add
       </button>
     </form>
     <div>
-      <button
-        className="Cake-finish"
-        onClick={[Function]}
-        style={
-          Object {
-            "display": "none",
-          }
-        }
-        value={7}
-      >
-         👍 
-      </button>
       <button
         className="Cake-edit"
         onClick={[Function]}
@@ -1282,29 +1129,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       <button
         className="CakeForm-submit CakeForm-input"
         onClick={[Function]}
-        style={
-          Object {
-            "display": "initial",
-          }
-        }
         type="submit"
       >
         Add
       </button>
     </form>
     <div>
-      <button
-        className="Cake-finish"
-        onClick={[Function]}
-        style={
-          Object {
-            "display": "none",
-          }
-        }
-        value={8}
-      >
-         👍 
-      </button>
       <button
         className="Cake-edit"
         onClick={[Function]}
@@ -1414,29 +1244,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       <button
         className="CakeForm-submit CakeForm-input"
         onClick={[Function]}
-        style={
-          Object {
-            "display": "initial",
-          }
-        }
         type="submit"
       >
         Add
       </button>
     </form>
     <div>
-      <button
-        className="Cake-finish"
-        onClick={[Function]}
-        style={
-          Object {
-            "display": "none",
-          }
-        }
-        value={9}
-      >
-         👍 
-      </button>
       <button
         className="Cake-edit"
         onClick={[Function]}
@@ -1546,29 +1359,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       <button
         className="CakeForm-submit CakeForm-input"
         onClick={[Function]}
-        style={
-          Object {
-            "display": "initial",
-          }
-        }
         type="submit"
       >
         Add
       </button>
     </form>
     <div>
-      <button
-        className="Cake-finish"
-        onClick={[Function]}
-        style={
-          Object {
-            "display": "none",
-          }
-        }
-        value={10}
-      >
-         👍 
-      </button>
       <button
         className="Cake-edit"
         onClick={[Function]}
@@ -1678,29 +1474,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       <button
         className="CakeForm-submit CakeForm-input"
         onClick={[Function]}
-        style={
-          Object {
-            "display": "initial",
-          }
-        }
         type="submit"
       >
         Add
       </button>
     </form>
     <div>
-      <button
-        className="Cake-finish"
-        onClick={[Function]}
-        style={
-          Object {
-            "display": "none",
-          }
-        }
-        value={11}
-      >
-         👍 
-      </button>
       <button
         className="Cake-edit"
         onClick={[Function]}
@@ -1810,29 +1589,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       <button
         className="CakeForm-submit CakeForm-input"
         onClick={[Function]}
-        style={
-          Object {
-            "display": "initial",
-          }
-        }
         type="submit"
       >
         Add
       </button>
     </form>
     <div>
-      <button
-        className="Cake-finish"
-        onClick={[Function]}
-        style={
-          Object {
-            "display": "none",
-          }
-        }
-        value={12}
-      >
-         👍 
-      </button>
       <button
         className="Cake-edit"
         onClick={[Function]}
@@ -1942,29 +1704,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       <button
         className="CakeForm-submit CakeForm-input"
         onClick={[Function]}
-        style={
-          Object {
-            "display": "initial",
-          }
-        }
         type="submit"
       >
         Add
       </button>
     </form>
     <div>
-      <button
-        className="Cake-finish"
-        onClick={[Function]}
-        style={
-          Object {
-            "display": "none",
-          }
-        }
-        value={13}
-      >
-         👍 
-      </button>
       <button
         className="Cake-edit"
         onClick={[Function]}
@@ -2074,29 +1819,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       <button
         className="CakeForm-submit CakeForm-input"
         onClick={[Function]}
-        style={
-          Object {
-            "display": "initial",
-          }
-        }
         type="submit"
       >
         Add
       </button>
     </form>
     <div>
-      <button
-        className="Cake-finish"
-        onClick={[Function]}
-        style={
-          Object {
-            "display": "none",
-          }
-        }
-        value={14}
-      >
-         👍 
-      </button>
       <button
         className="Cake-edit"
         onClick={[Function]}
@@ -2206,29 +1934,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       <button
         className="CakeForm-submit CakeForm-input"
         onClick={[Function]}
-        style={
-          Object {
-            "display": "initial",
-          }
-        }
         type="submit"
       >
         Add
       </button>
     </form>
     <div>
-      <button
-        className="Cake-finish"
-        onClick={[Function]}
-        style={
-          Object {
-            "display": "none",
-          }
-        }
-        value={15}
-      >
-         👍 
-      </button>
       <button
         className="Cake-edit"
         onClick={[Function]}
@@ -2338,29 +2049,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       <button
         className="CakeForm-submit CakeForm-input"
         onClick={[Function]}
-        style={
-          Object {
-            "display": "initial",
-          }
-        }
         type="submit"
       >
         Add
       </button>
     </form>
     <div>
-      <button
-        className="Cake-finish"
-        onClick={[Function]}
-        style={
-          Object {
-            "display": "none",
-          }
-        }
-        value={16}
-      >
-         👍 
-      </button>
       <button
         className="Cake-edit"
         onClick={[Function]}
@@ -2470,29 +2164,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       <button
         className="CakeForm-submit CakeForm-input"
         onClick={[Function]}
-        style={
-          Object {
-            "display": "initial",
-          }
-        }
         type="submit"
       >
         Add
       </button>
     </form>
     <div>
-      <button
-        className="Cake-finish"
-        onClick={[Function]}
-        style={
-          Object {
-            "display": "none",
-          }
-        }
-        value={17}
-      >
-         👍 
-      </button>
       <button
         className="Cake-edit"
         onClick={[Function]}
@@ -2602,29 +2279,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       <button
         className="CakeForm-submit CakeForm-input"
         onClick={[Function]}
-        style={
-          Object {
-            "display": "initial",
-          }
-        }
         type="submit"
       >
         Add
       </button>
     </form>
     <div>
-      <button
-        className="Cake-finish"
-        onClick={[Function]}
-        style={
-          Object {
-            "display": "none",
-          }
-        }
-        value={18}
-      >
-         👍 
-      </button>
       <button
         className="Cake-edit"
         onClick={[Function]}
@@ -2734,29 +2394,12 @@ exports[`<CakeList /> Renders whole list 1`] = `
       <button
         className="CakeForm-submit CakeForm-input"
         onClick={[Function]}
-        style={
-          Object {
-            "display": "initial",
-          }
-        }
         type="submit"
       >
         Add
       </button>
     </form>
     <div>
-      <button
-        className="Cake-finish"
-        onClick={[Function]}
-        style={
-          Object {
-            "display": "none",
-          }
-        }
-        value={19}
-      >
-         👍 
-      </button>
       <button
         className="Cake-edit"
         onClick={[Function]}

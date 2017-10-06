@@ -56,11 +56,6 @@ exports[`<CakeForm /> Renders cakes 1`] = `
   <button
     className="CakeForm-submit CakeForm-input"
     onClick={undefined}
-    style={
-      Object {
-        "display": "initial",
-      }
-    }
     type="submit"
   >
     Add
