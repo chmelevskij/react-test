@@ -53,9 +53,9 @@ class Cake extends Component {
           <img className="Cake-image" src={image} alt={title}/>
         </div>
         <CakeForm {...this.state} visible={editable} handleInput={this.handleInput} onSubmit={this.finishEdit} />
-        <button className="Cake-finish" onClick={this.finishEdit} style={{ display: editable ? "initial" : "none" }} value={cakeId}>V</button>
+        <button className="Cake-finish" onClick={this.finishEdit} style={{ display: editable ? "initial" : "none" }} value={cakeId}>&#128077;</button>
         <button className="Cake-edit" onClick={this.edit} style={{ display: editable ? "none" : "initial" }} value={cakeId}>&#128394;</button>
-        <button className="Cake-remove" onClick={onRemove} value={cakeId}>X</button>
+        <button className="Cake-remove" onClick={onRemove} value={cakeId}>&#128465;</button>
       </li>
     )
   }

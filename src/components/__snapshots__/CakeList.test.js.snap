@@ -107,7 +107,7 @@ exports[`<CakeList /> Renders out 1`] = `
       }
       value={0}
     >
-      V
+      👍
     </button>
     <button
       className="Cake-edit"
@@ -126,7 +126,7 @@ exports[`<CakeList /> Renders out 1`] = `
       onClick={undefined}
       value={0}
     >
-      X
+      🗑
     </button>
   </li>
 </ul>
@@ -239,7 +239,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       }
       value={0}
     >
-      V
+      👍
     </button>
     <button
       className="Cake-edit"
@@ -258,7 +258,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       onClick={undefined}
       value={0}
     >
-      X
+      🗑
     </button>
   </li>
   <li
@@ -364,7 +364,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       }
       value={1}
     >
-      V
+      👍
     </button>
     <button
       className="Cake-edit"
@@ -383,7 +383,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       onClick={undefined}
       value={1}
     >
-      X
+      🗑
     </button>
   </li>
   <li
@@ -489,7 +489,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       }
       value={2}
     >
-      V
+      👍
     </button>
     <button
       className="Cake-edit"
@@ -508,7 +508,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       onClick={undefined}
       value={2}
     >
-      X
+      🗑
     </button>
   </li>
   <li
@@ -614,7 +614,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       }
       value={3}
     >
-      V
+      👍
     </button>
     <button
       className="Cake-edit"
@@ -633,7 +633,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       onClick={undefined}
       value={3}
     >
-      X
+      🗑
     </button>
   </li>
   <li
@@ -739,7 +739,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       }
       value={4}
     >
-      V
+      👍
     </button>
     <button
       className="Cake-edit"
@@ -758,7 +758,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       onClick={undefined}
       value={4}
     >
-      X
+      🗑
     </button>
   </li>
   <li
@@ -864,7 +864,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       }
       value={5}
     >
-      V
+      👍
     </button>
     <button
       className="Cake-edit"
@@ -883,7 +883,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       onClick={undefined}
       value={5}
     >
-      X
+      🗑
     </button>
   </li>
   <li
@@ -989,7 +989,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       }
       value={6}
     >
-      V
+      👍
     </button>
     <button
       className="Cake-edit"
@@ -1008,7 +1008,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       onClick={undefined}
       value={6}
     >
-      X
+      🗑
     </button>
   </li>
   <li
@@ -1114,7 +1114,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       }
       value={7}
     >
-      V
+      👍
     </button>
     <button
       className="Cake-edit"
@@ -1133,7 +1133,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       onClick={undefined}
       value={7}
     >
-      X
+      🗑
     </button>
   </li>
   <li
@@ -1239,7 +1239,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       }
       value={8}
     >
-      V
+      👍
     </button>
     <button
       className="Cake-edit"
@@ -1258,7 +1258,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       onClick={undefined}
       value={8}
     >
-      X
+      🗑
     </button>
   </li>
   <li
@@ -1364,7 +1364,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       }
       value={9}
     >
-      V
+      👍
     </button>
     <button
       className="Cake-edit"
@@ -1383,7 +1383,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       onClick={undefined}
       value={9}
     >
-      X
+      🗑
     </button>
   </li>
   <li
@@ -1489,7 +1489,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       }
       value={10}
     >
-      V
+      👍
     </button>
     <button
       className="Cake-edit"
@@ -1508,7 +1508,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       onClick={undefined}
       value={10}
     >
-      X
+      🗑
     </button>
   </li>
   <li
@@ -1614,7 +1614,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       }
       value={11}
     >
-      V
+      👍
     </button>
     <button
       className="Cake-edit"
@@ -1633,7 +1633,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       onClick={undefined}
       value={11}
     >
-      X
+      🗑
     </button>
   </li>
   <li
@@ -1739,7 +1739,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       }
       value={12}
     >
-      V
+      👍
     </button>
     <button
       className="Cake-edit"
@@ -1758,7 +1758,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       onClick={undefined}
       value={12}
     >
-      X
+      🗑
     </button>
   </li>
   <li
@@ -1864,7 +1864,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       }
       value={13}
     >
-      V
+      👍
     </button>
     <button
       className="Cake-edit"
@@ -1883,7 +1883,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       onClick={undefined}
       value={13}
     >
-      X
+      🗑
     </button>
   </li>
   <li
@@ -1989,7 +1989,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       }
       value={14}
     >
-      V
+      👍
     </button>
     <button
       className="Cake-edit"
@@ -2008,7 +2008,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       onClick={undefined}
       value={14}
     >
-      X
+      🗑
     </button>
   </li>
   <li
@@ -2114,7 +2114,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       }
       value={15}
     >
-      V
+      👍
     </button>
     <button
       className="Cake-edit"
@@ -2133,7 +2133,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       onClick={undefined}
       value={15}
     >
-      X
+      🗑
     </button>
   </li>
   <li
@@ -2239,7 +2239,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       }
       value={16}
     >
-      V
+      👍
     </button>
     <button
       className="Cake-edit"
@@ -2258,7 +2258,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       onClick={undefined}
       value={16}
     >
-      X
+      🗑
     </button>
   </li>
   <li
@@ -2364,7 +2364,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       }
       value={17}
     >
-      V
+      👍
     </button>
     <button
       className="Cake-edit"
@@ -2383,7 +2383,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       onClick={undefined}
       value={17}
     >
-      X
+      🗑
     </button>
   </li>
   <li
@@ -2489,7 +2489,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       }
       value={18}
     >
-      V
+      👍
     </button>
     <button
       className="Cake-edit"
@@ -2508,7 +2508,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       onClick={undefined}
       value={18}
     >
-      X
+      🗑
     </button>
   </li>
   <li
@@ -2614,7 +2614,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       }
       value={19}
     >
-      V
+      👍
     </button>
     <button
       className="Cake-edit"
@@ -2633,7 +2633,7 @@ exports[`<CakeList /> Renders whole list 1`] = `
       onClick={undefined}
       value={19}
     >
-      X
+      🗑
     </button>
   </li>
 </ul>
