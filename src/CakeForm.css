@@ -7,15 +7,17 @@
   padding: 10px;
 }
 
-.CakeForm-submit {
-  line-height: 2rem;
-  background: #9c92ac;
-}
-
-input,
-textarea {
+.CakeForm-input {
   margin: 10px;
   padding: 5px;
   border: none;
   border-radius: 5px;
+  min-width: 270px;
+  margin: 5px auto;
+}
+
+.CakeForm-submit {
+  margin: 10px auto;
+  line-height: 2rem;
+  background: #9c92ac;
 }
