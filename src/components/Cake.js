@@ -1,14 +1,59 @@
-import React from 'react'
+import React, {Component} from 'react'
+import CakeForm from './CakeForm.js'
 import './Cake.css'
 
-const Cake = ({title, desc, image, cakeId, onRemove, onEdit}) => (
-  <li className="Cake">
-    <h2 className="Cake-title"> {title} </h2>
-    <p> {desc} </p>
-    <img className="Cake-image" src={image} alt={title}/>
-    <button className="Cake-edit" onClick={onEdit} value={cakeId}>&#128394;</button>
-    <button className="Cake-remove" onClick={onRemove} value={cakeId}>X</button>
-  </li>
-)
+class Cake extends Component {
+  constructor({image, title, desc, cakeId, onCakeUpdate}){
+    super()
+    this.state = {
+      title,
+      desc,
+      cakeId,
+      image,
+      editable: false,
+      onCakeUpdate
+    }
+
+    this.finishEdit = this.finishEdit.bind(this)
+    this.edit = this.edit.bind(this)
+    this.handleInput = this.handleInput.bind(this)
+  }
+
+  finishEdit(event){
+    let {title, desc, cakeId, onCakeUpdate, editable} = this.state
+
+    onCakeUpdate(cakeId, title, desc)
+    this.setState({editable: !editable})
+  }
+
+  handleInput(event){
+    this.setState({
+      [event.target.name]: event.target.value
+    }) 
+  }
+
+  edit(){
+    this.setState({editable: !this.state.editable})
+  }
+
+  render(){
+    let {cakeId, onRemove} = this.props
+    let {image, editable ,title, desc} = this.state
+
+    return (
+      <li className="Cake">
+        <div style={{display: editable ? "none" : "initial"}}>
+          <h2 className="Cake-title"> {title} </h2>
+          <p> {desc} </p>
+          <img className="Cake-image" src={image} alt={title}/>
+        </div>
+        <CakeForm {...this.state} visible={editable} handleInput={this.handleInput} onSubmit={this.finishEdit} />
+        <button className="Cake-finish" onClick={this.finishEdit} value={cakeId}>V</button>
+        <button className="Cake-edit" onClick={this.edit} value={cakeId}>&#128394;</button>
+        <button className="Cake-remove" onClick={onRemove} value={cakeId}>X</button>
+      </li>
+    )
+  }
+}
 
 export default Cake

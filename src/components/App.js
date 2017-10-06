@@ -18,7 +18,7 @@ class App extends Component {
     this.destroy = this.destroy.bind(this)
     this.handleInput = this.handleInput.bind(this)
     this.addCake = this.addCake.bind(this)
-    this.edit = this.edit.bind(this)
+    this.onCakeUpdate = this.onCakeUpdate.bind(this)
   }
 
   destroy(event) {
@@ -51,8 +51,13 @@ class App extends Component {
     event.preventDefault()
   }
 
-  edit(event){
-    console.log(event.value);
+  onCakeUpdate(id, title, desc){
+    let cakes = [...this.state.cakes]
+    cakes[id].title = title
+    cakes[id].desc = desc
+
+    console.log(cakes);
+    this.setState({cakes})
   }
 
   render() {
@@ -60,11 +65,11 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <CakeForm {...this.state} handleInput={this.handleInput} onSubmit={this.addCake} />
+          <CakeForm {...this.state} visible={true} handleInput={this.handleInput} onSubmit={this.addCake} />
           <label className="App-search">Search<input placeholder="Type..." type="text" onChange={this.search}/></label>
         </header>
         { cakes.length
-          ? <CakeList onDestroy={this.destroy} onEdit={this.edit} cakes={this.state.cakes}/>
+          ? <CakeList onDestroy={this.destroy} cakes={this.state.cakes} onCakeUpdate={this.onCakeUpdate}/>
           : <h2>No cakes matching search</h2>
         }
       </div>

@@ -7,26 +7,106 @@ exports[`<CakeList /> Renders out 1`] = `
   <li
     className="Cake"
   >
-    <h2
-      className="Cake-title"
+    <div
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
     >
-       
-      Lemon cheesecake
-       
-    </h2>
-    <p>
-       
-      A cheesecake made of lemon
-       
-    </p>
-    <img
-      alt="Lemon cheesecake"
-      className="Cake-image"
-      src="https://s3-eu-west-1.amazonaws.com/s3.mediafileserver.co.uk/carnation/WebFiles/RecipeImages/lemoncheesecake_lg.jpg"
-    />
+      <h2
+        className="Cake-title"
+      >
+         
+        Lemon cheesecake
+         
+      </h2>
+      <p>
+         
+        A cheesecake made of lemon
+         
+      </p>
+      <img
+        alt="Lemon cheesecake"
+        className="Cake-image"
+        src="https://s3-eu-west-1.amazonaws.com/s3.mediafileserver.co.uk/carnation/WebFiles/RecipeImages/lemoncheesecake_lg.jpg"
+      />
+    </div>
+    <form
+      className="CakeForm"
+      style={
+        Object {
+          "display": "none",
+        }
+      }
+    >
+      <label
+        htmlFor="title"
+      >
+         Title 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="title"
+        name="title"
+        onChange={[Function]}
+        placeholder="Title"
+        required={true}
+        type="text"
+        value="Lemon cheesecake"
+      />
+      <label
+        htmlFor="desc"
+      >
+         Description 
+      </label>
+      <textarea
+        className="CakeForm-input"
+        cols="30"
+        id="desc"
+        name="desc"
+        onChange={[Function]}
+        placeholder="Description"
+        rows="10"
+        value="A cheesecake made of lemon"
+      />
+      <label
+        htmlFor="image"
+      >
+         Image 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="image"
+        name="image"
+        onChange={[Function]}
+        placeholder="Image URL"
+        type="url"
+        value="https://s3-eu-west-1.amazonaws.com/s3.mediafileserver.co.uk/carnation/WebFiles/RecipeImages/lemoncheesecake_lg.jpg"
+      />
+      <button
+        className="CakeForm-submit CakeForm-input"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        type="submit"
+      >
+        Add
+      </button>
+    </form>
+    <button
+      className="Cake-finish"
+      onClick={[Function]}
+      value={0}
+    >
+      V
+    </button>
     <button
       className="Cake-edit"
-      onClick={undefined}
+      onClick={[Function]}
       value={0}
     >
       🖊
@@ -49,26 +129,106 @@ exports[`<CakeList /> Renders whole list 1`] = `
   <li
     className="Cake"
   >
-    <h2
-      className="Cake-title"
+    <div
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
     >
-       
-      Lemon cheesecake
-       
-    </h2>
-    <p>
-       
-      A cheesecake made of lemon
-       
-    </p>
-    <img
-      alt="Lemon cheesecake"
-      className="Cake-image"
-      src="https://s3-eu-west-1.amazonaws.com/s3.mediafileserver.co.uk/carnation/WebFiles/RecipeImages/lemoncheesecake_lg.jpg"
-    />
+      <h2
+        className="Cake-title"
+      >
+         
+        Lemon cheesecake
+         
+      </h2>
+      <p>
+         
+        A cheesecake made of lemon
+         
+      </p>
+      <img
+        alt="Lemon cheesecake"
+        className="Cake-image"
+        src="https://s3-eu-west-1.amazonaws.com/s3.mediafileserver.co.uk/carnation/WebFiles/RecipeImages/lemoncheesecake_lg.jpg"
+      />
+    </div>
+    <form
+      className="CakeForm"
+      style={
+        Object {
+          "display": "none",
+        }
+      }
+    >
+      <label
+        htmlFor="title"
+      >
+         Title 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="title"
+        name="title"
+        onChange={[Function]}
+        placeholder="Title"
+        required={true}
+        type="text"
+        value="Lemon cheesecake"
+      />
+      <label
+        htmlFor="desc"
+      >
+         Description 
+      </label>
+      <textarea
+        className="CakeForm-input"
+        cols="30"
+        id="desc"
+        name="desc"
+        onChange={[Function]}
+        placeholder="Description"
+        rows="10"
+        value="A cheesecake made of lemon"
+      />
+      <label
+        htmlFor="image"
+      >
+         Image 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="image"
+        name="image"
+        onChange={[Function]}
+        placeholder="Image URL"
+        type="url"
+        value="https://s3-eu-west-1.amazonaws.com/s3.mediafileserver.co.uk/carnation/WebFiles/RecipeImages/lemoncheesecake_lg.jpg"
+      />
+      <button
+        className="CakeForm-submit CakeForm-input"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        type="submit"
+      >
+        Add
+      </button>
+    </form>
+    <button
+      className="Cake-finish"
+      onClick={[Function]}
+      value={0}
+    >
+      V
+    </button>
     <button
       className="Cake-edit"
-      onClick={undefined}
+      onClick={[Function]}
       value={0}
     >
       🖊
@@ -84,26 +244,106 @@ exports[`<CakeList /> Renders whole list 1`] = `
   <li
     className="Cake"
   >
-    <h2
-      className="Cake-title"
+    <div
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
     >
-       
-      victoria sponge
-       
-    </h2>
-    <p>
-       
-      sponge with jam
-       
-    </p>
-    <img
-      alt="victoria sponge"
-      className="Cake-image"
-      src="http://www.bbcgoodfood.com/sites/bbcgoodfood.com/files/recipe_images/recipe-image-legacy-id--1001468_10.jpg"
-    />
+      <h2
+        className="Cake-title"
+      >
+         
+        victoria sponge
+         
+      </h2>
+      <p>
+         
+        sponge with jam
+         
+      </p>
+      <img
+        alt="victoria sponge"
+        className="Cake-image"
+        src="http://www.bbcgoodfood.com/sites/bbcgoodfood.com/files/recipe_images/recipe-image-legacy-id--1001468_10.jpg"
+      />
+    </div>
+    <form
+      className="CakeForm"
+      style={
+        Object {
+          "display": "none",
+        }
+      }
+    >
+      <label
+        htmlFor="title"
+      >
+         Title 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="title"
+        name="title"
+        onChange={[Function]}
+        placeholder="Title"
+        required={true}
+        type="text"
+        value="victoria sponge"
+      />
+      <label
+        htmlFor="desc"
+      >
+         Description 
+      </label>
+      <textarea
+        className="CakeForm-input"
+        cols="30"
+        id="desc"
+        name="desc"
+        onChange={[Function]}
+        placeholder="Description"
+        rows="10"
+        value="sponge with jam"
+      />
+      <label
+        htmlFor="image"
+      >
+         Image 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="image"
+        name="image"
+        onChange={[Function]}
+        placeholder="Image URL"
+        type="url"
+        value="http://www.bbcgoodfood.com/sites/bbcgoodfood.com/files/recipe_images/recipe-image-legacy-id--1001468_10.jpg"
+      />
+      <button
+        className="CakeForm-submit CakeForm-input"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        type="submit"
+      >
+        Add
+      </button>
+    </form>
+    <button
+      className="Cake-finish"
+      onClick={[Function]}
+      value={1}
+    >
+      V
+    </button>
     <button
       className="Cake-edit"
-      onClick={undefined}
+      onClick={[Function]}
       value={1}
     >
       🖊
@@ -119,26 +359,106 @@ exports[`<CakeList /> Renders whole list 1`] = `
   <li
     className="Cake"
   >
-    <h2
-      className="Cake-title"
+    <div
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
     >
-       
-      Carrot cake
-       
-    </h2>
-    <p>
-       
-      Bugs bunnys favourite
-       
-    </p>
-    <img
-      alt="Carrot cake"
-      className="Cake-image"
-      src="http://www.villageinn.com/i/pies/profile/carrotcake_main1.jpg"
-    />
+      <h2
+        className="Cake-title"
+      >
+         
+        Carrot cake
+         
+      </h2>
+      <p>
+         
+        Bugs bunnys favourite
+         
+      </p>
+      <img
+        alt="Carrot cake"
+        className="Cake-image"
+        src="http://www.villageinn.com/i/pies/profile/carrotcake_main1.jpg"
+      />
+    </div>
+    <form
+      className="CakeForm"
+      style={
+        Object {
+          "display": "none",
+        }
+      }
+    >
+      <label
+        htmlFor="title"
+      >
+         Title 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="title"
+        name="title"
+        onChange={[Function]}
+        placeholder="Title"
+        required={true}
+        type="text"
+        value="Carrot cake"
+      />
+      <label
+        htmlFor="desc"
+      >
+         Description 
+      </label>
+      <textarea
+        className="CakeForm-input"
+        cols="30"
+        id="desc"
+        name="desc"
+        onChange={[Function]}
+        placeholder="Description"
+        rows="10"
+        value="Bugs bunnys favourite"
+      />
+      <label
+        htmlFor="image"
+      >
+         Image 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="image"
+        name="image"
+        onChange={[Function]}
+        placeholder="Image URL"
+        type="url"
+        value="http://www.villageinn.com/i/pies/profile/carrotcake_main1.jpg"
+      />
+      <button
+        className="CakeForm-submit CakeForm-input"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        type="submit"
+      >
+        Add
+      </button>
+    </form>
+    <button
+      className="Cake-finish"
+      onClick={[Function]}
+      value={2}
+    >
+      V
+    </button>
     <button
       className="Cake-edit"
-      onClick={undefined}
+      onClick={[Function]}
       value={2}
     >
       🖊
@@ -154,26 +474,106 @@ exports[`<CakeList /> Renders whole list 1`] = `
   <li
     className="Cake"
   >
-    <h2
-      className="Cake-title"
+    <div
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
     >
-       
-      Banana cake
-       
-    </h2>
-    <p>
-       
-      Donkey kongs favourite
-       
-    </p>
-    <img
-      alt="Banana cake"
-      className="Cake-image"
-      src="http://ukcdn.ar-cdn.com/recipes/xlarge/ff22df7f-dbcd-4a09-81f7-9c1d8395d936.jpg"
-    />
+      <h2
+        className="Cake-title"
+      >
+         
+        Banana cake
+         
+      </h2>
+      <p>
+         
+        Donkey kongs favourite
+         
+      </p>
+      <img
+        alt="Banana cake"
+        className="Cake-image"
+        src="http://ukcdn.ar-cdn.com/recipes/xlarge/ff22df7f-dbcd-4a09-81f7-9c1d8395d936.jpg"
+      />
+    </div>
+    <form
+      className="CakeForm"
+      style={
+        Object {
+          "display": "none",
+        }
+      }
+    >
+      <label
+        htmlFor="title"
+      >
+         Title 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="title"
+        name="title"
+        onChange={[Function]}
+        placeholder="Title"
+        required={true}
+        type="text"
+        value="Banana cake"
+      />
+      <label
+        htmlFor="desc"
+      >
+         Description 
+      </label>
+      <textarea
+        className="CakeForm-input"
+        cols="30"
+        id="desc"
+        name="desc"
+        onChange={[Function]}
+        placeholder="Description"
+        rows="10"
+        value="Donkey kongs favourite"
+      />
+      <label
+        htmlFor="image"
+      >
+         Image 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="image"
+        name="image"
+        onChange={[Function]}
+        placeholder="Image URL"
+        type="url"
+        value="http://ukcdn.ar-cdn.com/recipes/xlarge/ff22df7f-dbcd-4a09-81f7-9c1d8395d936.jpg"
+      />
+      <button
+        className="CakeForm-submit CakeForm-input"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        type="submit"
+      >
+        Add
+      </button>
+    </form>
+    <button
+      className="Cake-finish"
+      onClick={[Function]}
+      value={3}
+    >
+      V
+    </button>
     <button
       className="Cake-edit"
-      onClick={undefined}
+      onClick={[Function]}
       value={3}
     >
       🖊
@@ -189,26 +589,106 @@ exports[`<CakeList /> Renders whole list 1`] = `
   <li
     className="Cake"
   >
-    <h2
-      className="Cake-title"
+    <div
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
     >
-       
-      Birthday cake
-       
-    </h2>
-    <p>
-       
-      a yearly treat
-       
-    </p>
-    <img
-      alt="Birthday cake"
-      className="Cake-image"
-      src="http://cornandco.com/wp-content/uploads/2014/05/birthday-cake-popcorn.jpg"
-    />
+      <h2
+        className="Cake-title"
+      >
+         
+        Birthday cake
+         
+      </h2>
+      <p>
+         
+        a yearly treat
+         
+      </p>
+      <img
+        alt="Birthday cake"
+        className="Cake-image"
+        src="http://cornandco.com/wp-content/uploads/2014/05/birthday-cake-popcorn.jpg"
+      />
+    </div>
+    <form
+      className="CakeForm"
+      style={
+        Object {
+          "display": "none",
+        }
+      }
+    >
+      <label
+        htmlFor="title"
+      >
+         Title 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="title"
+        name="title"
+        onChange={[Function]}
+        placeholder="Title"
+        required={true}
+        type="text"
+        value="Birthday cake"
+      />
+      <label
+        htmlFor="desc"
+      >
+         Description 
+      </label>
+      <textarea
+        className="CakeForm-input"
+        cols="30"
+        id="desc"
+        name="desc"
+        onChange={[Function]}
+        placeholder="Description"
+        rows="10"
+        value="a yearly treat"
+      />
+      <label
+        htmlFor="image"
+      >
+         Image 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="image"
+        name="image"
+        onChange={[Function]}
+        placeholder="Image URL"
+        type="url"
+        value="http://cornandco.com/wp-content/uploads/2014/05/birthday-cake-popcorn.jpg"
+      />
+      <button
+        className="CakeForm-submit CakeForm-input"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        type="submit"
+      >
+        Add
+      </button>
+    </form>
+    <button
+      className="Cake-finish"
+      onClick={[Function]}
+      value={4}
+    >
+      V
+    </button>
     <button
       className="Cake-edit"
-      onClick={undefined}
+      onClick={[Function]}
       value={4}
     >
       🖊
@@ -224,26 +704,106 @@ exports[`<CakeList /> Renders whole list 1`] = `
   <li
     className="Cake"
   >
-    <h2
-      className="Cake-title"
+    <div
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
     >
-       
-      Lemon cheesecake
-       
-    </h2>
-    <p>
-       
-      A cheesecake made of lemon
-       
-    </p>
-    <img
-      alt="Lemon cheesecake"
-      className="Cake-image"
-      src="https://s3-eu-west-1.amazonaws.com/s3.mediafileserver.co.uk/carnation/WebFiles/RecipeImages/lemoncheesecake_lg.jpg"
-    />
+      <h2
+        className="Cake-title"
+      >
+         
+        Lemon cheesecake
+         
+      </h2>
+      <p>
+         
+        A cheesecake made of lemon
+         
+      </p>
+      <img
+        alt="Lemon cheesecake"
+        className="Cake-image"
+        src="https://s3-eu-west-1.amazonaws.com/s3.mediafileserver.co.uk/carnation/WebFiles/RecipeImages/lemoncheesecake_lg.jpg"
+      />
+    </div>
+    <form
+      className="CakeForm"
+      style={
+        Object {
+          "display": "none",
+        }
+      }
+    >
+      <label
+        htmlFor="title"
+      >
+         Title 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="title"
+        name="title"
+        onChange={[Function]}
+        placeholder="Title"
+        required={true}
+        type="text"
+        value="Lemon cheesecake"
+      />
+      <label
+        htmlFor="desc"
+      >
+         Description 
+      </label>
+      <textarea
+        className="CakeForm-input"
+        cols="30"
+        id="desc"
+        name="desc"
+        onChange={[Function]}
+        placeholder="Description"
+        rows="10"
+        value="A cheesecake made of lemon"
+      />
+      <label
+        htmlFor="image"
+      >
+         Image 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="image"
+        name="image"
+        onChange={[Function]}
+        placeholder="Image URL"
+        type="url"
+        value="https://s3-eu-west-1.amazonaws.com/s3.mediafileserver.co.uk/carnation/WebFiles/RecipeImages/lemoncheesecake_lg.jpg"
+      />
+      <button
+        className="CakeForm-submit CakeForm-input"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        type="submit"
+      >
+        Add
+      </button>
+    </form>
+    <button
+      className="Cake-finish"
+      onClick={[Function]}
+      value={5}
+    >
+      V
+    </button>
     <button
       className="Cake-edit"
-      onClick={undefined}
+      onClick={[Function]}
       value={5}
     >
       🖊
@@ -259,26 +819,106 @@ exports[`<CakeList /> Renders whole list 1`] = `
   <li
     className="Cake"
   >
-    <h2
-      className="Cake-title"
+    <div
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
     >
-       
-      victoria sponge
-       
-    </h2>
-    <p>
-       
-      sponge with jam
-       
-    </p>
-    <img
-      alt="victoria sponge"
-      className="Cake-image"
-      src="http://www.bbcgoodfood.com/sites/bbcgoodfood.com/files/recipe_images/recipe-image-legacy-id--1001468_10.jpg"
-    />
+      <h2
+        className="Cake-title"
+      >
+         
+        victoria sponge
+         
+      </h2>
+      <p>
+         
+        sponge with jam
+         
+      </p>
+      <img
+        alt="victoria sponge"
+        className="Cake-image"
+        src="http://www.bbcgoodfood.com/sites/bbcgoodfood.com/files/recipe_images/recipe-image-legacy-id--1001468_10.jpg"
+      />
+    </div>
+    <form
+      className="CakeForm"
+      style={
+        Object {
+          "display": "none",
+        }
+      }
+    >
+      <label
+        htmlFor="title"
+      >
+         Title 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="title"
+        name="title"
+        onChange={[Function]}
+        placeholder="Title"
+        required={true}
+        type="text"
+        value="victoria sponge"
+      />
+      <label
+        htmlFor="desc"
+      >
+         Description 
+      </label>
+      <textarea
+        className="CakeForm-input"
+        cols="30"
+        id="desc"
+        name="desc"
+        onChange={[Function]}
+        placeholder="Description"
+        rows="10"
+        value="sponge with jam"
+      />
+      <label
+        htmlFor="image"
+      >
+         Image 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="image"
+        name="image"
+        onChange={[Function]}
+        placeholder="Image URL"
+        type="url"
+        value="http://www.bbcgoodfood.com/sites/bbcgoodfood.com/files/recipe_images/recipe-image-legacy-id--1001468_10.jpg"
+      />
+      <button
+        className="CakeForm-submit CakeForm-input"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        type="submit"
+      >
+        Add
+      </button>
+    </form>
+    <button
+      className="Cake-finish"
+      onClick={[Function]}
+      value={6}
+    >
+      V
+    </button>
     <button
       className="Cake-edit"
-      onClick={undefined}
+      onClick={[Function]}
       value={6}
     >
       🖊
@@ -294,26 +934,106 @@ exports[`<CakeList /> Renders whole list 1`] = `
   <li
     className="Cake"
   >
-    <h2
-      className="Cake-title"
+    <div
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
     >
-       
-      Carrot cake
-       
-    </h2>
-    <p>
-       
-      Bugs bunnys favourite
-       
-    </p>
-    <img
-      alt="Carrot cake"
-      className="Cake-image"
-      src="http://www.villageinn.com/i/pies/profile/carrotcake_main1.jpg"
-    />
+      <h2
+        className="Cake-title"
+      >
+         
+        Carrot cake
+         
+      </h2>
+      <p>
+         
+        Bugs bunnys favourite
+         
+      </p>
+      <img
+        alt="Carrot cake"
+        className="Cake-image"
+        src="http://www.villageinn.com/i/pies/profile/carrotcake_main1.jpg"
+      />
+    </div>
+    <form
+      className="CakeForm"
+      style={
+        Object {
+          "display": "none",
+        }
+      }
+    >
+      <label
+        htmlFor="title"
+      >
+         Title 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="title"
+        name="title"
+        onChange={[Function]}
+        placeholder="Title"
+        required={true}
+        type="text"
+        value="Carrot cake"
+      />
+      <label
+        htmlFor="desc"
+      >
+         Description 
+      </label>
+      <textarea
+        className="CakeForm-input"
+        cols="30"
+        id="desc"
+        name="desc"
+        onChange={[Function]}
+        placeholder="Description"
+        rows="10"
+        value="Bugs bunnys favourite"
+      />
+      <label
+        htmlFor="image"
+      >
+         Image 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="image"
+        name="image"
+        onChange={[Function]}
+        placeholder="Image URL"
+        type="url"
+        value="http://www.villageinn.com/i/pies/profile/carrotcake_main1.jpg"
+      />
+      <button
+        className="CakeForm-submit CakeForm-input"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        type="submit"
+      >
+        Add
+      </button>
+    </form>
+    <button
+      className="Cake-finish"
+      onClick={[Function]}
+      value={7}
+    >
+      V
+    </button>
     <button
       className="Cake-edit"
-      onClick={undefined}
+      onClick={[Function]}
       value={7}
     >
       🖊
@@ -329,26 +1049,106 @@ exports[`<CakeList /> Renders whole list 1`] = `
   <li
     className="Cake"
   >
-    <h2
-      className="Cake-title"
+    <div
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
     >
-       
-      Banana cake
-       
-    </h2>
-    <p>
-       
-      Donkey kongs favourite
-       
-    </p>
-    <img
-      alt="Banana cake"
-      className="Cake-image"
-      src="http://ukcdn.ar-cdn.com/recipes/xlarge/ff22df7f-dbcd-4a09-81f7-9c1d8395d936.jpg"
-    />
+      <h2
+        className="Cake-title"
+      >
+         
+        Banana cake
+         
+      </h2>
+      <p>
+         
+        Donkey kongs favourite
+         
+      </p>
+      <img
+        alt="Banana cake"
+        className="Cake-image"
+        src="http://ukcdn.ar-cdn.com/recipes/xlarge/ff22df7f-dbcd-4a09-81f7-9c1d8395d936.jpg"
+      />
+    </div>
+    <form
+      className="CakeForm"
+      style={
+        Object {
+          "display": "none",
+        }
+      }
+    >
+      <label
+        htmlFor="title"
+      >
+         Title 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="title"
+        name="title"
+        onChange={[Function]}
+        placeholder="Title"
+        required={true}
+        type="text"
+        value="Banana cake"
+      />
+      <label
+        htmlFor="desc"
+      >
+         Description 
+      </label>
+      <textarea
+        className="CakeForm-input"
+        cols="30"
+        id="desc"
+        name="desc"
+        onChange={[Function]}
+        placeholder="Description"
+        rows="10"
+        value="Donkey kongs favourite"
+      />
+      <label
+        htmlFor="image"
+      >
+         Image 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="image"
+        name="image"
+        onChange={[Function]}
+        placeholder="Image URL"
+        type="url"
+        value="http://ukcdn.ar-cdn.com/recipes/xlarge/ff22df7f-dbcd-4a09-81f7-9c1d8395d936.jpg"
+      />
+      <button
+        className="CakeForm-submit CakeForm-input"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        type="submit"
+      >
+        Add
+      </button>
+    </form>
+    <button
+      className="Cake-finish"
+      onClick={[Function]}
+      value={8}
+    >
+      V
+    </button>
     <button
       className="Cake-edit"
-      onClick={undefined}
+      onClick={[Function]}
       value={8}
     >
       🖊
@@ -364,26 +1164,106 @@ exports[`<CakeList /> Renders whole list 1`] = `
   <li
     className="Cake"
   >
-    <h2
-      className="Cake-title"
+    <div
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
     >
-       
-      Birthday cake
-       
-    </h2>
-    <p>
-       
-      a yearly treat
-       
-    </p>
-    <img
-      alt="Birthday cake"
-      className="Cake-image"
-      src="http://cornandco.com/wp-content/uploads/2014/05/birthday-cake-popcorn.jpg"
-    />
+      <h2
+        className="Cake-title"
+      >
+         
+        Birthday cake
+         
+      </h2>
+      <p>
+         
+        a yearly treat
+         
+      </p>
+      <img
+        alt="Birthday cake"
+        className="Cake-image"
+        src="http://cornandco.com/wp-content/uploads/2014/05/birthday-cake-popcorn.jpg"
+      />
+    </div>
+    <form
+      className="CakeForm"
+      style={
+        Object {
+          "display": "none",
+        }
+      }
+    >
+      <label
+        htmlFor="title"
+      >
+         Title 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="title"
+        name="title"
+        onChange={[Function]}
+        placeholder="Title"
+        required={true}
+        type="text"
+        value="Birthday cake"
+      />
+      <label
+        htmlFor="desc"
+      >
+         Description 
+      </label>
+      <textarea
+        className="CakeForm-input"
+        cols="30"
+        id="desc"
+        name="desc"
+        onChange={[Function]}
+        placeholder="Description"
+        rows="10"
+        value="a yearly treat"
+      />
+      <label
+        htmlFor="image"
+      >
+         Image 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="image"
+        name="image"
+        onChange={[Function]}
+        placeholder="Image URL"
+        type="url"
+        value="http://cornandco.com/wp-content/uploads/2014/05/birthday-cake-popcorn.jpg"
+      />
+      <button
+        className="CakeForm-submit CakeForm-input"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        type="submit"
+      >
+        Add
+      </button>
+    </form>
+    <button
+      className="Cake-finish"
+      onClick={[Function]}
+      value={9}
+    >
+      V
+    </button>
     <button
       className="Cake-edit"
-      onClick={undefined}
+      onClick={[Function]}
       value={9}
     >
       🖊
@@ -399,26 +1279,106 @@ exports[`<CakeList /> Renders whole list 1`] = `
   <li
     className="Cake"
   >
-    <h2
-      className="Cake-title"
+    <div
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
     >
-       
-      Lemon cheesecake
-       
-    </h2>
-    <p>
-       
-      A cheesecake made of lemon
-       
-    </p>
-    <img
-      alt="Lemon cheesecake"
-      className="Cake-image"
-      src="https://s3-eu-west-1.amazonaws.com/s3.mediafileserver.co.uk/carnation/WebFiles/RecipeImages/lemoncheesecake_lg.jpg"
-    />
+      <h2
+        className="Cake-title"
+      >
+         
+        Lemon cheesecake
+         
+      </h2>
+      <p>
+         
+        A cheesecake made of lemon
+         
+      </p>
+      <img
+        alt="Lemon cheesecake"
+        className="Cake-image"
+        src="https://s3-eu-west-1.amazonaws.com/s3.mediafileserver.co.uk/carnation/WebFiles/RecipeImages/lemoncheesecake_lg.jpg"
+      />
+    </div>
+    <form
+      className="CakeForm"
+      style={
+        Object {
+          "display": "none",
+        }
+      }
+    >
+      <label
+        htmlFor="title"
+      >
+         Title 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="title"
+        name="title"
+        onChange={[Function]}
+        placeholder="Title"
+        required={true}
+        type="text"
+        value="Lemon cheesecake"
+      />
+      <label
+        htmlFor="desc"
+      >
+         Description 
+      </label>
+      <textarea
+        className="CakeForm-input"
+        cols="30"
+        id="desc"
+        name="desc"
+        onChange={[Function]}
+        placeholder="Description"
+        rows="10"
+        value="A cheesecake made of lemon"
+      />
+      <label
+        htmlFor="image"
+      >
+         Image 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="image"
+        name="image"
+        onChange={[Function]}
+        placeholder="Image URL"
+        type="url"
+        value="https://s3-eu-west-1.amazonaws.com/s3.mediafileserver.co.uk/carnation/WebFiles/RecipeImages/lemoncheesecake_lg.jpg"
+      />
+      <button
+        className="CakeForm-submit CakeForm-input"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        type="submit"
+      >
+        Add
+      </button>
+    </form>
+    <button
+      className="Cake-finish"
+      onClick={[Function]}
+      value={10}
+    >
+      V
+    </button>
     <button
       className="Cake-edit"
-      onClick={undefined}
+      onClick={[Function]}
       value={10}
     >
       🖊
@@ -434,26 +1394,106 @@ exports[`<CakeList /> Renders whole list 1`] = `
   <li
     className="Cake"
   >
-    <h2
-      className="Cake-title"
+    <div
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
     >
-       
-      victoria sponge
-       
-    </h2>
-    <p>
-       
-      sponge with jam
-       
-    </p>
-    <img
-      alt="victoria sponge"
-      className="Cake-image"
-      src="http://www.bbcgoodfood.com/sites/bbcgoodfood.com/files/recipe_images/recipe-image-legacy-id--1001468_10.jpg"
-    />
+      <h2
+        className="Cake-title"
+      >
+         
+        victoria sponge
+         
+      </h2>
+      <p>
+         
+        sponge with jam
+         
+      </p>
+      <img
+        alt="victoria sponge"
+        className="Cake-image"
+        src="http://www.bbcgoodfood.com/sites/bbcgoodfood.com/files/recipe_images/recipe-image-legacy-id--1001468_10.jpg"
+      />
+    </div>
+    <form
+      className="CakeForm"
+      style={
+        Object {
+          "display": "none",
+        }
+      }
+    >
+      <label
+        htmlFor="title"
+      >
+         Title 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="title"
+        name="title"
+        onChange={[Function]}
+        placeholder="Title"
+        required={true}
+        type="text"
+        value="victoria sponge"
+      />
+      <label
+        htmlFor="desc"
+      >
+         Description 
+      </label>
+      <textarea
+        className="CakeForm-input"
+        cols="30"
+        id="desc"
+        name="desc"
+        onChange={[Function]}
+        placeholder="Description"
+        rows="10"
+        value="sponge with jam"
+      />
+      <label
+        htmlFor="image"
+      >
+         Image 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="image"
+        name="image"
+        onChange={[Function]}
+        placeholder="Image URL"
+        type="url"
+        value="http://www.bbcgoodfood.com/sites/bbcgoodfood.com/files/recipe_images/recipe-image-legacy-id--1001468_10.jpg"
+      />
+      <button
+        className="CakeForm-submit CakeForm-input"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        type="submit"
+      >
+        Add
+      </button>
+    </form>
+    <button
+      className="Cake-finish"
+      onClick={[Function]}
+      value={11}
+    >
+      V
+    </button>
     <button
       className="Cake-edit"
-      onClick={undefined}
+      onClick={[Function]}
       value={11}
     >
       🖊
@@ -469,26 +1509,106 @@ exports[`<CakeList /> Renders whole list 1`] = `
   <li
     className="Cake"
   >
-    <h2
-      className="Cake-title"
+    <div
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
     >
-       
-      Carrot cake
-       
-    </h2>
-    <p>
-       
-      Bugs bunnys favourite
-       
-    </p>
-    <img
-      alt="Carrot cake"
-      className="Cake-image"
-      src="http://www.villageinn.com/i/pies/profile/carrotcake_main1.jpg"
-    />
+      <h2
+        className="Cake-title"
+      >
+         
+        Carrot cake
+         
+      </h2>
+      <p>
+         
+        Bugs bunnys favourite
+         
+      </p>
+      <img
+        alt="Carrot cake"
+        className="Cake-image"
+        src="http://www.villageinn.com/i/pies/profile/carrotcake_main1.jpg"
+      />
+    </div>
+    <form
+      className="CakeForm"
+      style={
+        Object {
+          "display": "none",
+        }
+      }
+    >
+      <label
+        htmlFor="title"
+      >
+         Title 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="title"
+        name="title"
+        onChange={[Function]}
+        placeholder="Title"
+        required={true}
+        type="text"
+        value="Carrot cake"
+      />
+      <label
+        htmlFor="desc"
+      >
+         Description 
+      </label>
+      <textarea
+        className="CakeForm-input"
+        cols="30"
+        id="desc"
+        name="desc"
+        onChange={[Function]}
+        placeholder="Description"
+        rows="10"
+        value="Bugs bunnys favourite"
+      />
+      <label
+        htmlFor="image"
+      >
+         Image 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="image"
+        name="image"
+        onChange={[Function]}
+        placeholder="Image URL"
+        type="url"
+        value="http://www.villageinn.com/i/pies/profile/carrotcake_main1.jpg"
+      />
+      <button
+        className="CakeForm-submit CakeForm-input"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        type="submit"
+      >
+        Add
+      </button>
+    </form>
+    <button
+      className="Cake-finish"
+      onClick={[Function]}
+      value={12}
+    >
+      V
+    </button>
     <button
       className="Cake-edit"
-      onClick={undefined}
+      onClick={[Function]}
       value={12}
     >
       🖊
@@ -504,26 +1624,106 @@ exports[`<CakeList /> Renders whole list 1`] = `
   <li
     className="Cake"
   >
-    <h2
-      className="Cake-title"
+    <div
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
     >
-       
-      Banana cake
-       
-    </h2>
-    <p>
-       
-      Donkey kongs favourite
-       
-    </p>
-    <img
-      alt="Banana cake"
-      className="Cake-image"
-      src="http://ukcdn.ar-cdn.com/recipes/xlarge/ff22df7f-dbcd-4a09-81f7-9c1d8395d936.jpg"
-    />
+      <h2
+        className="Cake-title"
+      >
+         
+        Banana cake
+         
+      </h2>
+      <p>
+         
+        Donkey kongs favourite
+         
+      </p>
+      <img
+        alt="Banana cake"
+        className="Cake-image"
+        src="http://ukcdn.ar-cdn.com/recipes/xlarge/ff22df7f-dbcd-4a09-81f7-9c1d8395d936.jpg"
+      />
+    </div>
+    <form
+      className="CakeForm"
+      style={
+        Object {
+          "display": "none",
+        }
+      }
+    >
+      <label
+        htmlFor="title"
+      >
+         Title 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="title"
+        name="title"
+        onChange={[Function]}
+        placeholder="Title"
+        required={true}
+        type="text"
+        value="Banana cake"
+      />
+      <label
+        htmlFor="desc"
+      >
+         Description 
+      </label>
+      <textarea
+        className="CakeForm-input"
+        cols="30"
+        id="desc"
+        name="desc"
+        onChange={[Function]}
+        placeholder="Description"
+        rows="10"
+        value="Donkey kongs favourite"
+      />
+      <label
+        htmlFor="image"
+      >
+         Image 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="image"
+        name="image"
+        onChange={[Function]}
+        placeholder="Image URL"
+        type="url"
+        value="http://ukcdn.ar-cdn.com/recipes/xlarge/ff22df7f-dbcd-4a09-81f7-9c1d8395d936.jpg"
+      />
+      <button
+        className="CakeForm-submit CakeForm-input"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        type="submit"
+      >
+        Add
+      </button>
+    </form>
+    <button
+      className="Cake-finish"
+      onClick={[Function]}
+      value={13}
+    >
+      V
+    </button>
     <button
       className="Cake-edit"
-      onClick={undefined}
+      onClick={[Function]}
       value={13}
     >
       🖊
@@ -539,26 +1739,106 @@ exports[`<CakeList /> Renders whole list 1`] = `
   <li
     className="Cake"
   >
-    <h2
-      className="Cake-title"
+    <div
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
     >
-       
-      Birthday cake
-       
-    </h2>
-    <p>
-       
-      a yearly treat
-       
-    </p>
-    <img
-      alt="Birthday cake"
-      className="Cake-image"
-      src="http://cornandco.com/wp-content/uploads/2014/05/birthday-cake-popcorn.jpg"
-    />
+      <h2
+        className="Cake-title"
+      >
+         
+        Birthday cake
+         
+      </h2>
+      <p>
+         
+        a yearly treat
+         
+      </p>
+      <img
+        alt="Birthday cake"
+        className="Cake-image"
+        src="http://cornandco.com/wp-content/uploads/2014/05/birthday-cake-popcorn.jpg"
+      />
+    </div>
+    <form
+      className="CakeForm"
+      style={
+        Object {
+          "display": "none",
+        }
+      }
+    >
+      <label
+        htmlFor="title"
+      >
+         Title 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="title"
+        name="title"
+        onChange={[Function]}
+        placeholder="Title"
+        required={true}
+        type="text"
+        value="Birthday cake"
+      />
+      <label
+        htmlFor="desc"
+      >
+         Description 
+      </label>
+      <textarea
+        className="CakeForm-input"
+        cols="30"
+        id="desc"
+        name="desc"
+        onChange={[Function]}
+        placeholder="Description"
+        rows="10"
+        value="a yearly treat"
+      />
+      <label
+        htmlFor="image"
+      >
+         Image 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="image"
+        name="image"
+        onChange={[Function]}
+        placeholder="Image URL"
+        type="url"
+        value="http://cornandco.com/wp-content/uploads/2014/05/birthday-cake-popcorn.jpg"
+      />
+      <button
+        className="CakeForm-submit CakeForm-input"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        type="submit"
+      >
+        Add
+      </button>
+    </form>
+    <button
+      className="Cake-finish"
+      onClick={[Function]}
+      value={14}
+    >
+      V
+    </button>
     <button
       className="Cake-edit"
-      onClick={undefined}
+      onClick={[Function]}
       value={14}
     >
       🖊
@@ -574,26 +1854,106 @@ exports[`<CakeList /> Renders whole list 1`] = `
   <li
     className="Cake"
   >
-    <h2
-      className="Cake-title"
+    <div
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
     >
-       
-      Lemon cheesecake
-       
-    </h2>
-    <p>
-       
-      A cheesecake made of lemon
-       
-    </p>
-    <img
-      alt="Lemon cheesecake"
-      className="Cake-image"
-      src="https://s3-eu-west-1.amazonaws.com/s3.mediafileserver.co.uk/carnation/WebFiles/RecipeImages/lemoncheesecake_lg.jpg"
-    />
+      <h2
+        className="Cake-title"
+      >
+         
+        Lemon cheesecake
+         
+      </h2>
+      <p>
+         
+        A cheesecake made of lemon
+         
+      </p>
+      <img
+        alt="Lemon cheesecake"
+        className="Cake-image"
+        src="https://s3-eu-west-1.amazonaws.com/s3.mediafileserver.co.uk/carnation/WebFiles/RecipeImages/lemoncheesecake_lg.jpg"
+      />
+    </div>
+    <form
+      className="CakeForm"
+      style={
+        Object {
+          "display": "none",
+        }
+      }
+    >
+      <label
+        htmlFor="title"
+      >
+         Title 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="title"
+        name="title"
+        onChange={[Function]}
+        placeholder="Title"
+        required={true}
+        type="text"
+        value="Lemon cheesecake"
+      />
+      <label
+        htmlFor="desc"
+      >
+         Description 
+      </label>
+      <textarea
+        className="CakeForm-input"
+        cols="30"
+        id="desc"
+        name="desc"
+        onChange={[Function]}
+        placeholder="Description"
+        rows="10"
+        value="A cheesecake made of lemon"
+      />
+      <label
+        htmlFor="image"
+      >
+         Image 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="image"
+        name="image"
+        onChange={[Function]}
+        placeholder="Image URL"
+        type="url"
+        value="https://s3-eu-west-1.amazonaws.com/s3.mediafileserver.co.uk/carnation/WebFiles/RecipeImages/lemoncheesecake_lg.jpg"
+      />
+      <button
+        className="CakeForm-submit CakeForm-input"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        type="submit"
+      >
+        Add
+      </button>
+    </form>
+    <button
+      className="Cake-finish"
+      onClick={[Function]}
+      value={15}
+    >
+      V
+    </button>
     <button
       className="Cake-edit"
-      onClick={undefined}
+      onClick={[Function]}
       value={15}
     >
       🖊
@@ -609,26 +1969,106 @@ exports[`<CakeList /> Renders whole list 1`] = `
   <li
     className="Cake"
   >
-    <h2
-      className="Cake-title"
+    <div
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
     >
-       
-      victoria sponge
-       
-    </h2>
-    <p>
-       
-      sponge with jam
-       
-    </p>
-    <img
-      alt="victoria sponge"
-      className="Cake-image"
-      src="http://www.bbcgoodfood.com/sites/bbcgoodfood.com/files/recipe_images/recipe-image-legacy-id--1001468_10.jpg"
-    />
+      <h2
+        className="Cake-title"
+      >
+         
+        victoria sponge
+         
+      </h2>
+      <p>
+         
+        sponge with jam
+         
+      </p>
+      <img
+        alt="victoria sponge"
+        className="Cake-image"
+        src="http://www.bbcgoodfood.com/sites/bbcgoodfood.com/files/recipe_images/recipe-image-legacy-id--1001468_10.jpg"
+      />
+    </div>
+    <form
+      className="CakeForm"
+      style={
+        Object {
+          "display": "none",
+        }
+      }
+    >
+      <label
+        htmlFor="title"
+      >
+         Title 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="title"
+        name="title"
+        onChange={[Function]}
+        placeholder="Title"
+        required={true}
+        type="text"
+        value="victoria sponge"
+      />
+      <label
+        htmlFor="desc"
+      >
+         Description 
+      </label>
+      <textarea
+        className="CakeForm-input"
+        cols="30"
+        id="desc"
+        name="desc"
+        onChange={[Function]}
+        placeholder="Description"
+        rows="10"
+        value="sponge with jam"
+      />
+      <label
+        htmlFor="image"
+      >
+         Image 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="image"
+        name="image"
+        onChange={[Function]}
+        placeholder="Image URL"
+        type="url"
+        value="http://www.bbcgoodfood.com/sites/bbcgoodfood.com/files/recipe_images/recipe-image-legacy-id--1001468_10.jpg"
+      />
+      <button
+        className="CakeForm-submit CakeForm-input"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        type="submit"
+      >
+        Add
+      </button>
+    </form>
+    <button
+      className="Cake-finish"
+      onClick={[Function]}
+      value={16}
+    >
+      V
+    </button>
     <button
       className="Cake-edit"
-      onClick={undefined}
+      onClick={[Function]}
       value={16}
     >
       🖊
@@ -644,26 +2084,106 @@ exports[`<CakeList /> Renders whole list 1`] = `
   <li
     className="Cake"
   >
-    <h2
-      className="Cake-title"
+    <div
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
     >
-       
-      Carrot cake
-       
-    </h2>
-    <p>
-       
-      Bugs bunnys favourite
-       
-    </p>
-    <img
-      alt="Carrot cake"
-      className="Cake-image"
-      src="http://www.villageinn.com/i/pies/profile/carrotcake_main1.jpg"
-    />
+      <h2
+        className="Cake-title"
+      >
+         
+        Carrot cake
+         
+      </h2>
+      <p>
+         
+        Bugs bunnys favourite
+         
+      </p>
+      <img
+        alt="Carrot cake"
+        className="Cake-image"
+        src="http://www.villageinn.com/i/pies/profile/carrotcake_main1.jpg"
+      />
+    </div>
+    <form
+      className="CakeForm"
+      style={
+        Object {
+          "display": "none",
+        }
+      }
+    >
+      <label
+        htmlFor="title"
+      >
+         Title 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="title"
+        name="title"
+        onChange={[Function]}
+        placeholder="Title"
+        required={true}
+        type="text"
+        value="Carrot cake"
+      />
+      <label
+        htmlFor="desc"
+      >
+         Description 
+      </label>
+      <textarea
+        className="CakeForm-input"
+        cols="30"
+        id="desc"
+        name="desc"
+        onChange={[Function]}
+        placeholder="Description"
+        rows="10"
+        value="Bugs bunnys favourite"
+      />
+      <label
+        htmlFor="image"
+      >
+         Image 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="image"
+        name="image"
+        onChange={[Function]}
+        placeholder="Image URL"
+        type="url"
+        value="http://www.villageinn.com/i/pies/profile/carrotcake_main1.jpg"
+      />
+      <button
+        className="CakeForm-submit CakeForm-input"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        type="submit"
+      >
+        Add
+      </button>
+    </form>
+    <button
+      className="Cake-finish"
+      onClick={[Function]}
+      value={17}
+    >
+      V
+    </button>
     <button
       className="Cake-edit"
-      onClick={undefined}
+      onClick={[Function]}
       value={17}
     >
       🖊
@@ -679,26 +2199,106 @@ exports[`<CakeList /> Renders whole list 1`] = `
   <li
     className="Cake"
   >
-    <h2
-      className="Cake-title"
+    <div
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
     >
-       
-      Banana cake
-       
-    </h2>
-    <p>
-       
-      Donkey kongs favourite
-       
-    </p>
-    <img
-      alt="Banana cake"
-      className="Cake-image"
-      src="http://ukcdn.ar-cdn.com/recipes/xlarge/ff22df7f-dbcd-4a09-81f7-9c1d8395d936.jpg"
-    />
+      <h2
+        className="Cake-title"
+      >
+         
+        Banana cake
+         
+      </h2>
+      <p>
+         
+        Donkey kongs favourite
+         
+      </p>
+      <img
+        alt="Banana cake"
+        className="Cake-image"
+        src="http://ukcdn.ar-cdn.com/recipes/xlarge/ff22df7f-dbcd-4a09-81f7-9c1d8395d936.jpg"
+      />
+    </div>
+    <form
+      className="CakeForm"
+      style={
+        Object {
+          "display": "none",
+        }
+      }
+    >
+      <label
+        htmlFor="title"
+      >
+         Title 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="title"
+        name="title"
+        onChange={[Function]}
+        placeholder="Title"
+        required={true}
+        type="text"
+        value="Banana cake"
+      />
+      <label
+        htmlFor="desc"
+      >
+         Description 
+      </label>
+      <textarea
+        className="CakeForm-input"
+        cols="30"
+        id="desc"
+        name="desc"
+        onChange={[Function]}
+        placeholder="Description"
+        rows="10"
+        value="Donkey kongs favourite"
+      />
+      <label
+        htmlFor="image"
+      >
+         Image 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="image"
+        name="image"
+        onChange={[Function]}
+        placeholder="Image URL"
+        type="url"
+        value="http://ukcdn.ar-cdn.com/recipes/xlarge/ff22df7f-dbcd-4a09-81f7-9c1d8395d936.jpg"
+      />
+      <button
+        className="CakeForm-submit CakeForm-input"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        type="submit"
+      >
+        Add
+      </button>
+    </form>
+    <button
+      className="Cake-finish"
+      onClick={[Function]}
+      value={18}
+    >
+      V
+    </button>
     <button
       className="Cake-edit"
-      onClick={undefined}
+      onClick={[Function]}
       value={18}
     >
       🖊
@@ -714,26 +2314,106 @@ exports[`<CakeList /> Renders whole list 1`] = `
   <li
     className="Cake"
   >
-    <h2
-      className="Cake-title"
+    <div
+      style={
+        Object {
+          "display": "initial",
+        }
+      }
     >
-       
-      Birthday cake
-       
-    </h2>
-    <p>
-       
-      a yearly treat
-       
-    </p>
-    <img
-      alt="Birthday cake"
-      className="Cake-image"
-      src="http://cornandco.com/wp-content/uploads/2014/05/birthday-cake-popcorn.jpg"
-    />
+      <h2
+        className="Cake-title"
+      >
+         
+        Birthday cake
+         
+      </h2>
+      <p>
+         
+        a yearly treat
+         
+      </p>
+      <img
+        alt="Birthday cake"
+        className="Cake-image"
+        src="http://cornandco.com/wp-content/uploads/2014/05/birthday-cake-popcorn.jpg"
+      />
+    </div>
+    <form
+      className="CakeForm"
+      style={
+        Object {
+          "display": "none",
+        }
+      }
+    >
+      <label
+        htmlFor="title"
+      >
+         Title 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="title"
+        name="title"
+        onChange={[Function]}
+        placeholder="Title"
+        required={true}
+        type="text"
+        value="Birthday cake"
+      />
+      <label
+        htmlFor="desc"
+      >
+         Description 
+      </label>
+      <textarea
+        className="CakeForm-input"
+        cols="30"
+        id="desc"
+        name="desc"
+        onChange={[Function]}
+        placeholder="Description"
+        rows="10"
+        value="a yearly treat"
+      />
+      <label
+        htmlFor="image"
+      >
+         Image 
+      </label>
+      <input
+        className="CakeForm-input"
+        id="image"
+        name="image"
+        onChange={[Function]}
+        placeholder="Image URL"
+        type="url"
+        value="http://cornandco.com/wp-content/uploads/2014/05/birthday-cake-popcorn.jpg"
+      />
+      <button
+        className="CakeForm-submit CakeForm-input"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        type="submit"
+      >
+        Add
+      </button>
+    </form>
+    <button
+      className="Cake-finish"
+      onClick={[Function]}
+      value={19}
+    >
+      V
+    </button>
     <button
       className="Cake-edit"
-      onClick={undefined}
+      onClick={[Function]}
       value={19}
     >
       🖊
