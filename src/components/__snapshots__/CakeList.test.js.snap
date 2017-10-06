@@ -97,37 +97,59 @@ exports[`<CakeList /> Renders out 1`] = `
         Add
       </button>
     </form>
-    <button
-      className="Cake-finish"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "none",
+    <div>
+      <button
+        className="Cake-finish"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "none",
+          }
         }
-      }
-      value={0}
-    >
-      👍
-    </button>
-    <button
-      className="Cake-edit"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "initial",
+        value={0}
+      >
+        <span
+          aria-label="Finish edit"
+          role="img"
+        >
+          👍
+        </span>
+      </button>
+      <button
+        className="Cake-edit"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
         }
-      }
-      value={0}
-    >
-      🖊
-    </button>
-    <button
-      className="Cake-remove"
-      onClick={undefined}
-      value={0}
-    >
-      🗑
-    </button>
+        value={0}
+      >
+        <span
+          aria-label="edit"
+          role="img"
+        >
+          🖊
+        </span>
+      </button>
+      <button
+        className="Cake-remove"
+        onClick={undefined}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        value={0}
+      >
+        <span
+          aria-label="remove"
+          role="img"
+        >
+          🗑
+        </span>
+      </button>
+    </div>
   </li>
 </ul>
 `;
@@ -229,37 +251,59 @@ exports[`<CakeList /> Renders whole list 1`] = `
         Add
       </button>
     </form>
-    <button
-      className="Cake-finish"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "none",
+    <div>
+      <button
+        className="Cake-finish"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "none",
+          }
         }
-      }
-      value={0}
-    >
-      👍
-    </button>
-    <button
-      className="Cake-edit"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "initial",
+        value={0}
+      >
+        <span
+          aria-label="Finish edit"
+          role="img"
+        >
+          👍
+        </span>
+      </button>
+      <button
+        className="Cake-edit"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
         }
-      }
-      value={0}
-    >
-      🖊
-    </button>
-    <button
-      className="Cake-remove"
-      onClick={undefined}
-      value={0}
-    >
-      🗑
-    </button>
+        value={0}
+      >
+        <span
+          aria-label="edit"
+          role="img"
+        >
+          🖊
+        </span>
+      </button>
+      <button
+        className="Cake-remove"
+        onClick={undefined}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        value={0}
+      >
+        <span
+          aria-label="remove"
+          role="img"
+        >
+          🗑
+        </span>
+      </button>
+    </div>
   </li>
   <li
     className="Cake"
@@ -354,37 +398,59 @@ exports[`<CakeList /> Renders whole list 1`] = `
         Add
       </button>
     </form>
-    <button
-      className="Cake-finish"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "none",
+    <div>
+      <button
+        className="Cake-finish"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "none",
+          }
         }
-      }
-      value={1}
-    >
-      👍
-    </button>
-    <button
-      className="Cake-edit"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "initial",
+        value={1}
+      >
+        <span
+          aria-label="Finish edit"
+          role="img"
+        >
+          👍
+        </span>
+      </button>
+      <button
+        className="Cake-edit"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
         }
-      }
-      value={1}
-    >
-      🖊
-    </button>
-    <button
-      className="Cake-remove"
-      onClick={undefined}
-      value={1}
-    >
-      🗑
-    </button>
+        value={1}
+      >
+        <span
+          aria-label="edit"
+          role="img"
+        >
+          🖊
+        </span>
+      </button>
+      <button
+        className="Cake-remove"
+        onClick={undefined}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        value={1}
+      >
+        <span
+          aria-label="remove"
+          role="img"
+        >
+          🗑
+        </span>
+      </button>
+    </div>
   </li>
   <li
     className="Cake"
@@ -479,37 +545,59 @@ exports[`<CakeList /> Renders whole list 1`] = `
         Add
       </button>
     </form>
-    <button
-      className="Cake-finish"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "none",
+    <div>
+      <button
+        className="Cake-finish"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "none",
+          }
         }
-      }
-      value={2}
-    >
-      👍
-    </button>
-    <button
-      className="Cake-edit"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "initial",
+        value={2}
+      >
+        <span
+          aria-label="Finish edit"
+          role="img"
+        >
+          👍
+        </span>
+      </button>
+      <button
+        className="Cake-edit"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
         }
-      }
-      value={2}
-    >
-      🖊
-    </button>
-    <button
-      className="Cake-remove"
-      onClick={undefined}
-      value={2}
-    >
-      🗑
-    </button>
+        value={2}
+      >
+        <span
+          aria-label="edit"
+          role="img"
+        >
+          🖊
+        </span>
+      </button>
+      <button
+        className="Cake-remove"
+        onClick={undefined}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        value={2}
+      >
+        <span
+          aria-label="remove"
+          role="img"
+        >
+          🗑
+        </span>
+      </button>
+    </div>
   </li>
   <li
     className="Cake"
@@ -604,37 +692,59 @@ exports[`<CakeList /> Renders whole list 1`] = `
         Add
       </button>
     </form>
-    <button
-      className="Cake-finish"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "none",
+    <div>
+      <button
+        className="Cake-finish"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "none",
+          }
         }
-      }
-      value={3}
-    >
-      👍
-    </button>
-    <button
-      className="Cake-edit"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "initial",
+        value={3}
+      >
+        <span
+          aria-label="Finish edit"
+          role="img"
+        >
+          👍
+        </span>
+      </button>
+      <button
+        className="Cake-edit"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
         }
-      }
-      value={3}
-    >
-      🖊
-    </button>
-    <button
-      className="Cake-remove"
-      onClick={undefined}
-      value={3}
-    >
-      🗑
-    </button>
+        value={3}
+      >
+        <span
+          aria-label="edit"
+          role="img"
+        >
+          🖊
+        </span>
+      </button>
+      <button
+        className="Cake-remove"
+        onClick={undefined}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        value={3}
+      >
+        <span
+          aria-label="remove"
+          role="img"
+        >
+          🗑
+        </span>
+      </button>
+    </div>
   </li>
   <li
     className="Cake"
@@ -729,37 +839,59 @@ exports[`<CakeList /> Renders whole list 1`] = `
         Add
       </button>
     </form>
-    <button
-      className="Cake-finish"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "none",
+    <div>
+      <button
+        className="Cake-finish"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "none",
+          }
         }
-      }
-      value={4}
-    >
-      👍
-    </button>
-    <button
-      className="Cake-edit"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "initial",
+        value={4}
+      >
+        <span
+          aria-label="Finish edit"
+          role="img"
+        >
+          👍
+        </span>
+      </button>
+      <button
+        className="Cake-edit"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
         }
-      }
-      value={4}
-    >
-      🖊
-    </button>
-    <button
-      className="Cake-remove"
-      onClick={undefined}
-      value={4}
-    >
-      🗑
-    </button>
+        value={4}
+      >
+        <span
+          aria-label="edit"
+          role="img"
+        >
+          🖊
+        </span>
+      </button>
+      <button
+        className="Cake-remove"
+        onClick={undefined}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        value={4}
+      >
+        <span
+          aria-label="remove"
+          role="img"
+        >
+          🗑
+        </span>
+      </button>
+    </div>
   </li>
   <li
     className="Cake"
@@ -854,37 +986,59 @@ exports[`<CakeList /> Renders whole list 1`] = `
         Add
       </button>
     </form>
-    <button
-      className="Cake-finish"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "none",
+    <div>
+      <button
+        className="Cake-finish"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "none",
+          }
         }
-      }
-      value={5}
-    >
-      👍
-    </button>
-    <button
-      className="Cake-edit"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "initial",
+        value={5}
+      >
+        <span
+          aria-label="Finish edit"
+          role="img"
+        >
+          👍
+        </span>
+      </button>
+      <button
+        className="Cake-edit"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
         }
-      }
-      value={5}
-    >
-      🖊
-    </button>
-    <button
-      className="Cake-remove"
-      onClick={undefined}
-      value={5}
-    >
-      🗑
-    </button>
+        value={5}
+      >
+        <span
+          aria-label="edit"
+          role="img"
+        >
+          🖊
+        </span>
+      </button>
+      <button
+        className="Cake-remove"
+        onClick={undefined}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        value={5}
+      >
+        <span
+          aria-label="remove"
+          role="img"
+        >
+          🗑
+        </span>
+      </button>
+    </div>
   </li>
   <li
     className="Cake"
@@ -979,37 +1133,59 @@ exports[`<CakeList /> Renders whole list 1`] = `
         Add
       </button>
     </form>
-    <button
-      className="Cake-finish"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "none",
+    <div>
+      <button
+        className="Cake-finish"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "none",
+          }
         }
-      }
-      value={6}
-    >
-      👍
-    </button>
-    <button
-      className="Cake-edit"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "initial",
+        value={6}
+      >
+        <span
+          aria-label="Finish edit"
+          role="img"
+        >
+          👍
+        </span>
+      </button>
+      <button
+        className="Cake-edit"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
         }
-      }
-      value={6}
-    >
-      🖊
-    </button>
-    <button
-      className="Cake-remove"
-      onClick={undefined}
-      value={6}
-    >
-      🗑
-    </button>
+        value={6}
+      >
+        <span
+          aria-label="edit"
+          role="img"
+        >
+          🖊
+        </span>
+      </button>
+      <button
+        className="Cake-remove"
+        onClick={undefined}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        value={6}
+      >
+        <span
+          aria-label="remove"
+          role="img"
+        >
+          🗑
+        </span>
+      </button>
+    </div>
   </li>
   <li
     className="Cake"
@@ -1104,37 +1280,59 @@ exports[`<CakeList /> Renders whole list 1`] = `
         Add
       </button>
     </form>
-    <button
-      className="Cake-finish"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "none",
+    <div>
+      <button
+        className="Cake-finish"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "none",
+          }
         }
-      }
-      value={7}
-    >
-      👍
-    </button>
-    <button
-      className="Cake-edit"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "initial",
+        value={7}
+      >
+        <span
+          aria-label="Finish edit"
+          role="img"
+        >
+          👍
+        </span>
+      </button>
+      <button
+        className="Cake-edit"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
         }
-      }
-      value={7}
-    >
-      🖊
-    </button>
-    <button
-      className="Cake-remove"
-      onClick={undefined}
-      value={7}
-    >
-      🗑
-    </button>
+        value={7}
+      >
+        <span
+          aria-label="edit"
+          role="img"
+        >
+          🖊
+        </span>
+      </button>
+      <button
+        className="Cake-remove"
+        onClick={undefined}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        value={7}
+      >
+        <span
+          aria-label="remove"
+          role="img"
+        >
+          🗑
+        </span>
+      </button>
+    </div>
   </li>
   <li
     className="Cake"
@@ -1229,37 +1427,59 @@ exports[`<CakeList /> Renders whole list 1`] = `
         Add
       </button>
     </form>
-    <button
-      className="Cake-finish"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "none",
+    <div>
+      <button
+        className="Cake-finish"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "none",
+          }
         }
-      }
-      value={8}
-    >
-      👍
-    </button>
-    <button
-      className="Cake-edit"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "initial",
+        value={8}
+      >
+        <span
+          aria-label="Finish edit"
+          role="img"
+        >
+          👍
+        </span>
+      </button>
+      <button
+        className="Cake-edit"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
         }
-      }
-      value={8}
-    >
-      🖊
-    </button>
-    <button
-      className="Cake-remove"
-      onClick={undefined}
-      value={8}
-    >
-      🗑
-    </button>
+        value={8}
+      >
+        <span
+          aria-label="edit"
+          role="img"
+        >
+          🖊
+        </span>
+      </button>
+      <button
+        className="Cake-remove"
+        onClick={undefined}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        value={8}
+      >
+        <span
+          aria-label="remove"
+          role="img"
+        >
+          🗑
+        </span>
+      </button>
+    </div>
   </li>
   <li
     className="Cake"
@@ -1354,37 +1574,59 @@ exports[`<CakeList /> Renders whole list 1`] = `
         Add
       </button>
     </form>
-    <button
-      className="Cake-finish"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "none",
+    <div>
+      <button
+        className="Cake-finish"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "none",
+          }
         }
-      }
-      value={9}
-    >
-      👍
-    </button>
-    <button
-      className="Cake-edit"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "initial",
+        value={9}
+      >
+        <span
+          aria-label="Finish edit"
+          role="img"
+        >
+          👍
+        </span>
+      </button>
+      <button
+        className="Cake-edit"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
         }
-      }
-      value={9}
-    >
-      🖊
-    </button>
-    <button
-      className="Cake-remove"
-      onClick={undefined}
-      value={9}
-    >
-      🗑
-    </button>
+        value={9}
+      >
+        <span
+          aria-label="edit"
+          role="img"
+        >
+          🖊
+        </span>
+      </button>
+      <button
+        className="Cake-remove"
+        onClick={undefined}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        value={9}
+      >
+        <span
+          aria-label="remove"
+          role="img"
+        >
+          🗑
+        </span>
+      </button>
+    </div>
   </li>
   <li
     className="Cake"
@@ -1479,37 +1721,59 @@ exports[`<CakeList /> Renders whole list 1`] = `
         Add
       </button>
     </form>
-    <button
-      className="Cake-finish"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "none",
+    <div>
+      <button
+        className="Cake-finish"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "none",
+          }
         }
-      }
-      value={10}
-    >
-      👍
-    </button>
-    <button
-      className="Cake-edit"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "initial",
+        value={10}
+      >
+        <span
+          aria-label="Finish edit"
+          role="img"
+        >
+          👍
+        </span>
+      </button>
+      <button
+        className="Cake-edit"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
         }
-      }
-      value={10}
-    >
-      🖊
-    </button>
-    <button
-      className="Cake-remove"
-      onClick={undefined}
-      value={10}
-    >
-      🗑
-    </button>
+        value={10}
+      >
+        <span
+          aria-label="edit"
+          role="img"
+        >
+          🖊
+        </span>
+      </button>
+      <button
+        className="Cake-remove"
+        onClick={undefined}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        value={10}
+      >
+        <span
+          aria-label="remove"
+          role="img"
+        >
+          🗑
+        </span>
+      </button>
+    </div>
   </li>
   <li
     className="Cake"
@@ -1604,37 +1868,59 @@ exports[`<CakeList /> Renders whole list 1`] = `
         Add
       </button>
     </form>
-    <button
-      className="Cake-finish"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "none",
+    <div>
+      <button
+        className="Cake-finish"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "none",
+          }
         }
-      }
-      value={11}
-    >
-      👍
-    </button>
-    <button
-      className="Cake-edit"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "initial",
+        value={11}
+      >
+        <span
+          aria-label="Finish edit"
+          role="img"
+        >
+          👍
+        </span>
+      </button>
+      <button
+        className="Cake-edit"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
         }
-      }
-      value={11}
-    >
-      🖊
-    </button>
-    <button
-      className="Cake-remove"
-      onClick={undefined}
-      value={11}
-    >
-      🗑
-    </button>
+        value={11}
+      >
+        <span
+          aria-label="edit"
+          role="img"
+        >
+          🖊
+        </span>
+      </button>
+      <button
+        className="Cake-remove"
+        onClick={undefined}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        value={11}
+      >
+        <span
+          aria-label="remove"
+          role="img"
+        >
+          🗑
+        </span>
+      </button>
+    </div>
   </li>
   <li
     className="Cake"
@@ -1729,37 +2015,59 @@ exports[`<CakeList /> Renders whole list 1`] = `
         Add
       </button>
     </form>
-    <button
-      className="Cake-finish"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "none",
+    <div>
+      <button
+        className="Cake-finish"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "none",
+          }
         }
-      }
-      value={12}
-    >
-      👍
-    </button>
-    <button
-      className="Cake-edit"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "initial",
+        value={12}
+      >
+        <span
+          aria-label="Finish edit"
+          role="img"
+        >
+          👍
+        </span>
+      </button>
+      <button
+        className="Cake-edit"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
         }
-      }
-      value={12}
-    >
-      🖊
-    </button>
-    <button
-      className="Cake-remove"
-      onClick={undefined}
-      value={12}
-    >
-      🗑
-    </button>
+        value={12}
+      >
+        <span
+          aria-label="edit"
+          role="img"
+        >
+          🖊
+        </span>
+      </button>
+      <button
+        className="Cake-remove"
+        onClick={undefined}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        value={12}
+      >
+        <span
+          aria-label="remove"
+          role="img"
+        >
+          🗑
+        </span>
+      </button>
+    </div>
   </li>
   <li
     className="Cake"
@@ -1854,37 +2162,59 @@ exports[`<CakeList /> Renders whole list 1`] = `
         Add
       </button>
     </form>
-    <button
-      className="Cake-finish"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "none",
+    <div>
+      <button
+        className="Cake-finish"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "none",
+          }
         }
-      }
-      value={13}
-    >
-      👍
-    </button>
-    <button
-      className="Cake-edit"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "initial",
+        value={13}
+      >
+        <span
+          aria-label="Finish edit"
+          role="img"
+        >
+          👍
+        </span>
+      </button>
+      <button
+        className="Cake-edit"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
         }
-      }
-      value={13}
-    >
-      🖊
-    </button>
-    <button
-      className="Cake-remove"
-      onClick={undefined}
-      value={13}
-    >
-      🗑
-    </button>
+        value={13}
+      >
+        <span
+          aria-label="edit"
+          role="img"
+        >
+          🖊
+        </span>
+      </button>
+      <button
+        className="Cake-remove"
+        onClick={undefined}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        value={13}
+      >
+        <span
+          aria-label="remove"
+          role="img"
+        >
+          🗑
+        </span>
+      </button>
+    </div>
   </li>
   <li
     className="Cake"
@@ -1979,37 +2309,59 @@ exports[`<CakeList /> Renders whole list 1`] = `
         Add
       </button>
     </form>
-    <button
-      className="Cake-finish"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "none",
+    <div>
+      <button
+        className="Cake-finish"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "none",
+          }
         }
-      }
-      value={14}
-    >
-      👍
-    </button>
-    <button
-      className="Cake-edit"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "initial",
+        value={14}
+      >
+        <span
+          aria-label="Finish edit"
+          role="img"
+        >
+          👍
+        </span>
+      </button>
+      <button
+        className="Cake-edit"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
         }
-      }
-      value={14}
-    >
-      🖊
-    </button>
-    <button
-      className="Cake-remove"
-      onClick={undefined}
-      value={14}
-    >
-      🗑
-    </button>
+        value={14}
+      >
+        <span
+          aria-label="edit"
+          role="img"
+        >
+          🖊
+        </span>
+      </button>
+      <button
+        className="Cake-remove"
+        onClick={undefined}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        value={14}
+      >
+        <span
+          aria-label="remove"
+          role="img"
+        >
+          🗑
+        </span>
+      </button>
+    </div>
   </li>
   <li
     className="Cake"
@@ -2104,37 +2456,59 @@ exports[`<CakeList /> Renders whole list 1`] = `
         Add
       </button>
     </form>
-    <button
-      className="Cake-finish"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "none",
+    <div>
+      <button
+        className="Cake-finish"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "none",
+          }
         }
-      }
-      value={15}
-    >
-      👍
-    </button>
-    <button
-      className="Cake-edit"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "initial",
+        value={15}
+      >
+        <span
+          aria-label="Finish edit"
+          role="img"
+        >
+          👍
+        </span>
+      </button>
+      <button
+        className="Cake-edit"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
         }
-      }
-      value={15}
-    >
-      🖊
-    </button>
-    <button
-      className="Cake-remove"
-      onClick={undefined}
-      value={15}
-    >
-      🗑
-    </button>
+        value={15}
+      >
+        <span
+          aria-label="edit"
+          role="img"
+        >
+          🖊
+        </span>
+      </button>
+      <button
+        className="Cake-remove"
+        onClick={undefined}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        value={15}
+      >
+        <span
+          aria-label="remove"
+          role="img"
+        >
+          🗑
+        </span>
+      </button>
+    </div>
   </li>
   <li
     className="Cake"
@@ -2229,37 +2603,59 @@ exports[`<CakeList /> Renders whole list 1`] = `
         Add
       </button>
     </form>
-    <button
-      className="Cake-finish"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "none",
+    <div>
+      <button
+        className="Cake-finish"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "none",
+          }
         }
-      }
-      value={16}
-    >
-      👍
-    </button>
-    <button
-      className="Cake-edit"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "initial",
+        value={16}
+      >
+        <span
+          aria-label="Finish edit"
+          role="img"
+        >
+          👍
+        </span>
+      </button>
+      <button
+        className="Cake-edit"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
         }
-      }
-      value={16}
-    >
-      🖊
-    </button>
-    <button
-      className="Cake-remove"
-      onClick={undefined}
-      value={16}
-    >
-      🗑
-    </button>
+        value={16}
+      >
+        <span
+          aria-label="edit"
+          role="img"
+        >
+          🖊
+        </span>
+      </button>
+      <button
+        className="Cake-remove"
+        onClick={undefined}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        value={16}
+      >
+        <span
+          aria-label="remove"
+          role="img"
+        >
+          🗑
+        </span>
+      </button>
+    </div>
   </li>
   <li
     className="Cake"
@@ -2354,37 +2750,59 @@ exports[`<CakeList /> Renders whole list 1`] = `
         Add
       </button>
     </form>
-    <button
-      className="Cake-finish"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "none",
+    <div>
+      <button
+        className="Cake-finish"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "none",
+          }
         }
-      }
-      value={17}
-    >
-      👍
-    </button>
-    <button
-      className="Cake-edit"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "initial",
+        value={17}
+      >
+        <span
+          aria-label="Finish edit"
+          role="img"
+        >
+          👍
+        </span>
+      </button>
+      <button
+        className="Cake-edit"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
         }
-      }
-      value={17}
-    >
-      🖊
-    </button>
-    <button
-      className="Cake-remove"
-      onClick={undefined}
-      value={17}
-    >
-      🗑
-    </button>
+        value={17}
+      >
+        <span
+          aria-label="edit"
+          role="img"
+        >
+          🖊
+        </span>
+      </button>
+      <button
+        className="Cake-remove"
+        onClick={undefined}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        value={17}
+      >
+        <span
+          aria-label="remove"
+          role="img"
+        >
+          🗑
+        </span>
+      </button>
+    </div>
   </li>
   <li
     className="Cake"
@@ -2479,37 +2897,59 @@ exports[`<CakeList /> Renders whole list 1`] = `
         Add
       </button>
     </form>
-    <button
-      className="Cake-finish"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "none",
+    <div>
+      <button
+        className="Cake-finish"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "none",
+          }
         }
-      }
-      value={18}
-    >
-      👍
-    </button>
-    <button
-      className="Cake-edit"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "initial",
+        value={18}
+      >
+        <span
+          aria-label="Finish edit"
+          role="img"
+        >
+          👍
+        </span>
+      </button>
+      <button
+        className="Cake-edit"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
         }
-      }
-      value={18}
-    >
-      🖊
-    </button>
-    <button
-      className="Cake-remove"
-      onClick={undefined}
-      value={18}
-    >
-      🗑
-    </button>
+        value={18}
+      >
+        <span
+          aria-label="edit"
+          role="img"
+        >
+          🖊
+        </span>
+      </button>
+      <button
+        className="Cake-remove"
+        onClick={undefined}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        value={18}
+      >
+        <span
+          aria-label="remove"
+          role="img"
+        >
+          🗑
+        </span>
+      </button>
+    </div>
   </li>
   <li
     className="Cake"
@@ -2604,37 +3044,59 @@ exports[`<CakeList /> Renders whole list 1`] = `
         Add
       </button>
     </form>
-    <button
-      className="Cake-finish"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "none",
+    <div>
+      <button
+        className="Cake-finish"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "none",
+          }
         }
-      }
-      value={19}
-    >
-      👍
-    </button>
-    <button
-      className="Cake-edit"
-      onClick={[Function]}
-      style={
-        Object {
-          "display": "initial",
+        value={19}
+      >
+        <span
+          aria-label="Finish edit"
+          role="img"
+        >
+          👍
+        </span>
+      </button>
+      <button
+        className="Cake-edit"
+        onClick={[Function]}
+        style={
+          Object {
+            "display": "initial",
+          }
         }
-      }
-      value={19}
-    >
-      🖊
-    </button>
-    <button
-      className="Cake-remove"
-      onClick={undefined}
-      value={19}
-    >
-      🗑
-    </button>
+        value={19}
+      >
+        <span
+          aria-label="edit"
+          role="img"
+        >
+          🖊
+        </span>
+      </button>
+      <button
+        className="Cake-remove"
+        onClick={undefined}
+        style={
+          Object {
+            "display": "initial",
+          }
+        }
+        value={19}
+      >
+        <span
+          aria-label="remove"
+          role="img"
+        >
+          🗑
+        </span>
+      </button>
+    </div>
   </li>
 </ul>
 `;
