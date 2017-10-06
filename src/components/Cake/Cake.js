@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import CakeForm from './CakeForm.js'
+import CakeForm from '../CakeForm/CakeForm.js'
 import './Cake.css'
 
 class Cake extends Component {

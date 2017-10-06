@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import cakes from '../cake.json';
-import CakeList from './CakeList.js';
-import CakeForm from './CakeForm.js'
+import CakeList from './CakeList/CakeList.js';
+import CakeForm from './CakeForm/CakeForm.js'
 import './App.css';
 
 class App extends Component {
@@ -56,7 +56,6 @@ class App extends Component {
     cakes[id].title = title
     cakes[id].desc = desc
 
-    console.log(cakes);
     this.setState({cakes})
   }
 

@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Cake from './Cake.js'
+import Cake from '../Cake/Cake.js'
 import './CakeList.css'
 
 class CakeList extends Component {
